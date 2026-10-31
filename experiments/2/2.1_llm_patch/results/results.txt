@@ -1,0 +1,15 @@
+== A. Text-side decomposition ==
+  cos(phrase, laptop      ) = 0.950
+  cos(phrase, twee        ) = 0.852
+  cos(phrase, rewrite     ) = 0.692
+  cos(phrase, phrase+photo) = 0.889
+  cos(phrase, baseline    ) = 0.796
+  fit phrase ~ a*laptop + b*twee:  a=0.765  b=0.226  R^2=0.920
+  (a >> b => 'laptop' dominates; compare cosines to the giraffe baseline)
+
+== B. Top-10 overlap with the phrase query (no labels needed) ==
+  shared with 'laptop': 10/10
+  shared with 'twee': 0/10
+  shared with 'soft pastel indie 2010s bedroom aesthetic': 1/10
+  shared with 'a photo in the laptop twee aesthetic': 9/10
+  shared with 'giraffe': 0/10

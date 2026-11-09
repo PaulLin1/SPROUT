@@ -6,7 +6,7 @@ __pycache__/
 # C extensions
 *.so
 
-experiments/data/unsplash
+experiments/data/
 # Distribution / packaging
 .Python
 build/

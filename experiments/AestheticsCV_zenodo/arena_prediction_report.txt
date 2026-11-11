@@ -1,0 +1,54 @@
+
+==================================================================
+TASK: predict cluster  (n=1886, 4 classes, 52 channel-groups)
+==================================================================
+
+[ALL features]  30 features, channel-grouped 5-fold
+   accuracy            = 0.417
+   majority baseline   = 0.292
+   permutation null    = 0.276 +/- 0.012   p = 0.005   (z = 11.9)
+   confusion (rows=true [np.str_('anemoia'), np.str_('hauntological'), np.str_('inverted'), np.str_('restorative')]):
+     anemoia          99   80   80   68
+     hauntological    31  224  125  171
+     inverted         45  146  175  105
+     restorative      28  140   80  289
+
+[WITHOUT phi]  28 features, channel-grouped 5-fold
+   accuracy            = 0.406
+   majority baseline   = 0.292
+   permutation null    = 0.276 +/- 0.012   p = 0.005   (z = 10.9)
+
+==================================================================
+TASK: predict aesthetic  (n=1886, 20 classes, 52 channel-groups)
+==================================================================
+
+[ALL features]  30 features, channel-grouped 5-fold
+   accuracy            = 0.131
+   majority baseline   = 0.078
+   permutation null    = 0.068 +/- 0.006   p = 0.005   (z = 10.1)
+   confusion (rows=true [np.str_('Analog Horror'), np.str_('Atompunk'), np.str_('Cassette Futurism'), np.str_('Cottagecore'), np.str_('Dark Academia'), np.str_('Dreamcore'), np.str_('Faded'), np.str_('Fairycore'), np.str_('Frutiger Aero'), np.str_('Googie'), np.str_('Kidcore'), np.str_('Liminal Space'), np.str_('Mallsoft'), np.str_('Old Money'), np.str_('Retrofuturism'), np.str_('Synthwave'), np.str_('The Backrooms'), np.str_('Vaporwave'), np.str_('Weirdcore'), np.str_('Y2K')]):
+     Analog Horror     0    0    4    3    9    0    6    0    1    3    6    2    0    6    2    1   14    2    0    6
+     Atompunk          0    0    0    8    0    0    0    0    0    0    0    1    0    0    3    0    0    1    0    0
+     Cassette Futur    0    0   11    4    9    0    5    7    3    1    1    0    0    4   10    1    8   34   13    0
+     Cottagecore       1    2    9   46    5    0    5    7    1    1    0    1    0    7    3    0    5    4    0    0
+     Dark Academia     2    0   11    2   26    0    5    0    1    0    0    0    0   35    0    0    3    2   13    0
+     Dreamcore         0    0    3    2    0    1    2    2    2    1    2    1    0    4    3    0   15    1    4    0
+     Faded             1    0    8    8    4    1    4    9    7    4   13    0    0   22   22    0    9   10   22    4
+     Fairycore         0    0   12    8    2    2    8    7    4    1    7    2    0    4   12    0    9    9    6    4
+     Frutiger Aero     1    0    5    2    1    0    1    4   50    3   19    2    2    4    5    2   14    5    0   12
+     Googie            1    0    5    6    0    0    4    1    7    1    4    1    0    3    5    4    3   20    3    0
+     Kidcore           2    0    0    5    0    0    4    3   12    0   18    0    0   20    2    0    1   24   11    2
+     Liminal Space    14    0    0    4    1    0    0    5    8    4    1   16    0    2    5    0    8    6    5    1
+     Mallsoft          1    0    0    0    0    0    0    0    7    0    0    1    1    1    0    0    4    1    0    0
+     Old Money         2    0    0    6   11    0   11    1   11    0    8    1    0   30    5    0    9    8   27    0
+     Retrofuturism     1    0   13    1    1    0   15    5    7    3    5    0    0   11    1    0   23   26   16    3
+     Synthwave         0    0    1    0    1    0    4    0    1    0    1    1    0    1    0    0    0   26    0    2
+     The Backrooms     5    0    4    7    2    2    5    8   14    3    3    3    2    5   18    0   25   14   15    7
+     Vaporwave         0    0   27    3    4    0    4    4    7   12   27    1    0    6    8    9   21    7    1    4
+     Weirdcore         0    0   17    6    8    0   19    2    5    3   13    4    0   25   12    1   10    7    4    5
+     Y2K               0    0    2    0    3    0    4    2   33    1    5    0    0    2   11    1    0    7   14    0
+
+[WITHOUT phi]  28 features, channel-grouped 5-fold
+   accuracy            = 0.126
+   majority baseline   = 0.078
+   permutation null    = 0.068 +/- 0.006   p = 0.005   (z = 9.4)

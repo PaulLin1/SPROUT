@@ -6,6 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
+arena_taste/
+experiments/AestheticsCV_zenedo/
 experiments/data/
 # Distribution / packaging
 .Python

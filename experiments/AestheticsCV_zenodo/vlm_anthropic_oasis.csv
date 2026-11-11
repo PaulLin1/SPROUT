@@ -1,0 +1,899 @@
+image_id,source,aesthetic,cluster,eerie,nostalgic,abandoned,dreamlike,valence,arousal,mode,ok
+I4,corpus,Alcohol 1,,1,2,2,2,4,2,anemoia,1
+I7,corpus,Alcohol 4,,1,2,1,2,4,3,restorative,1
+I6,corpus,Alcohol 3,,3,1,2,3,3,2,inverted,1
+I11,corpus,Alcohol 8,,1,3,2,3,5,2,restorative,1
+I5,corpus,Alcohol 2,,1,2,1,2,4,2,anemoia,1
+I16,corpus,Angry face 2,,2,1,1,1,2,5,inverted,1
+I2,corpus,Acorns 2,,1,2,1,1,3,1,anemoia,1
+I8,corpus,Alcohol 5,,1,3,2,3,5,2,restorative,1
+I21,corpus,Angry pose 2,,4,1,1,3,2,4,inverted,1
+I19,corpus,Angry face 5,,5,1,1,3,1,5,inverted,1
+I9,corpus,Alcohol 6,,1,2,1,2,4,2,anemoia,1
+I20,corpus,Angry pose 1,,2,1,1,1,2,5,inverted,1
+I12,corpus,Ambulance 1,,2,4,1,2,3,2,anemoia,1
+I3,corpus,Acorns 3,,1,3,1,1,4,2,anemoia,1
+I29,corpus,Archery 2,,1,2,1,1,4,3,restorative,1
+I18,corpus,Angry face 4,,5,1,1,3,1,5,inverted,1
+I31,corpus,Astronaut 2,,3,2,1,2,4,3,inverted,1
+I30,corpus,Astronaut 1,,2,1,1,3,4,4,inverted,1
+I14,corpus,Ambulance 3,,2,1,2,1,3,4,hauntological,1
+I13,corpus,Ambulance 2,,1,1,2,1,3,4,hauntological,1
+I15,corpus,Angry face 1,,2,3,1,2,2,3,hauntological,1
+I17,corpus,Angry face 3,,3,1,1,1,1,5,inverted,1
+I10,corpus,Alcohol 7,,2,3,2,3,4,3,anemoia,1
+I36,corpus,Baby 5,,1,2,1,2,5,3,restorative,1
+I25,corpus,Animal carcass 4,,2,1,1,1,2,4,inverted,1
+I38,corpus,Baby 7,,1,2,1,1,3,4,restorative,1
+I32,corpus,Baby 1,,1,2,1,2,5,2,restorative,1
+I1,corpus,Acorns 1,,1,3,1,1,3,1,anemoia,1
+I34,corpus,Baby 3,,1,2,1,2,5,2,restorative,1
+I33,corpus,Baby 2,,1,2,1,2,5,2,restorative,1
+I28,corpus,Archery 1,,1,2,1,1,3,4,restorative,1
+I40,corpus,Baby 9,,1,2,1,2,5,2,restorative,1
+I42,corpus,Band 1,,1,3,1,1,4,4,restorative,1
+I26,corpus,Animal carcass 5,,3,1,2,1,1,3,hauntological,1
+I39,corpus,Baby 8,,1,2,1,1,5,4,restorative,1
+I37,corpus,Baby 6,,1,2,1,2,5,1,restorative,1
+I23,corpus,Animal carcass 2,,3,1,1,1,2,4,inverted,1
+I47,corpus,Barbeque 1,,1,2,1,2,4,3,restorative,1
+I45,corpus,Bar 2,,3,2,4,3,3,2,hauntological,1
+I43,corpus,Band 2,,2,3,1,3,4,3,hauntological,1
+I48,corpus,Barbeque 2,,1,3,1,1,5,2,restorative,1
+I46,corpus,Bar 3,,1,2,1,1,3,3,hauntological,1
+I55,corpus,Barrels 1,,2,3,3,2,2,2,hauntological,1
+I50,corpus,Bark 2,,2,2,1,1,3,2,anemoia,1
+I54,corpus,Bark 6,,2,2,1,2,3,2,anemoia,1
+I35,corpus,Baby 4,,1,2,1,2,5,2,restorative,1
+I27,corpus,Animal carcass 6,,3,1,1,1,1,5,inverted,1
+I61,corpus,Beach 3,,1,4,2,3,4,2,restorative,1
+I52,corpus,Bark 4,,2,2,2,2,3,2,hauntological,1
+I60,corpus,Beach 2,,1,3,2,4,5,2,restorative,1
+I59,corpus,Beach 1,,1,2,2,3,5,3,restorative,1
+I44,corpus,Bar 1,,1,4,2,1,4,2,restorative,1
+I24,corpus,Animal carcass 3,,3,1,1,1,2,4,inverted,1
+I63,corpus,Beach 5,,1,3,1,2,5,2,restorative,1
+I51,corpus,Bark 3,,1,2,1,1,3,2,anemoia,1
+I62,corpus,Beach 4,,1,3,2,3,4,2,restorative,1
+I67,corpus,Bear 1,,1,1,1,1,4,1,restorative,1
+I41,corpus,Baby 10,,2,4,3,3,3,2,restorative,1
+I64,corpus,Beach 6,,1,2,1,2,4,2,restorative,1
+I65,corpus,Beach 7,,1,3,2,2,4,2,restorative,1
+I70,corpus,Bed 1,,3,2,3,2,2,2,hauntological,1
+I66,corpus,Beach 8,,2,4,2,3,4,2,restorative,1
+I22,corpus,Animal carcass 1,,3,1,2,1,2,3,inverted,1
+I69,corpus,Bear 3,,2,1,2,2,3,3,inverted,1
+I72,corpus,Biking 1,,1,1,1,2,4,5,restorative,1
+I49,corpus,Bark 1,,1,2,1,1,3,2,anemoia,1
+I73,corpus,Billiards 1,,1,2,1,2,3,2,restorative,1
+I53,corpus,Bark 5,,2,2,1,1,3,2,anemoia,1
+I58,corpus,BDSM 3,,3,1,1,2,3,4,inverted,1
+I82,corpus,Bloody knife 1,,5,1,2,2,1,5,inverted,1
+I79,corpus,Birthday 1,,1,4,2,2,4,3,restorative,1
+I68,corpus,Bear 2,,1,1,1,1,3,3,restorative,1
+I76,corpus,Bird 3,,1,2,1,1,5,2,restorative,1
+I85,corpus,Bored face 1,,2,3,1,2,3,2,hauntological,1
+I84,corpus,Boat 1,,2,4,4,3,2,2,hauntological,1
+I77,corpus,Bird 4,,1,1,1,2,4,3,restorative,1
+I86,corpus,Bored pose 1,,3,3,3,2,2,2,hauntological,1
+I87,corpus,Bored pose 2,,1,2,1,1,2,2,hauntological,1
+I88,corpus,Bored pose 3,,1,3,1,1,2,2,hauntological,1
+I57,corpus,BDSM 2,,1,2,1,1,3,4,hauntological,1
+I83,corpus,Bloody knife 2,,4,1,1,2,1,4,inverted,1
+I75,corpus,Bird 2,,1,2,1,2,4,3,restorative,1
+I91,corpus,Bored pose 6,,1,4,2,3,2,2,hauntological,1
+I56,corpus,BDSM 1,,2,2,1,1,3,4,hauntological,1
+I97,corpus,Bubble 1,,3,1,1,5,3,3,inverted,1
+I90,corpus,Bored pose 5,,1,2,1,1,3,2,restorative,1
+I74,corpus,Bird 1,,2,3,2,4,4,2,restorative,1
+I80,corpus,Birthday 2,,2,5,1,2,4,2,restorative,1
+I89,corpus,Bored pose 4,,3,2,2,3,2,2,hauntological,1
+I92,corpus,Bottle 1,,2,1,2,2,3,2,inverted,1
+I102,corpus,Bungee jumping 2,,1,1,1,2,4,5,restorative,1
+I81,corpus,Birthday 3,,2,2,3,1,3,2,hauntological,1
+I100,corpus,Building 2,,4,3,4,3,2,4,hauntological,1
+I98,corpus,Bubble 2,,1,2,1,4,4,2,restorative,1
+I71,corpus,Bee 1,,2,1,1,2,3,3,inverted,1
+I99,corpus,Building 1,,2,3,1,3,4,3,anemoia,1
+I93,corpus,Boxing 1,,1,2,1,1,3,5,restorative,1
+I109,corpus,Camping 7,,1,3,1,1,4,3,restorative,1
+I113,corpus,Candle 1,,2,3,1,3,4,2,restorative,1
+I112,corpus,Camping 10,,3,1,2,4,3,3,inverted,1
+I111,corpus,Camping 9,,2,1,1,1,3,3,restorative,1
+I114,corpus,Car 1,,1,1,1,2,4,4,restorative,1
+I105,corpus,Camping 2,,1,2,1,1,4,2,restorative,1
+I94,corpus,Boxing 2,,2,1,1,3,2,5,inverted,1
+I107,corpus,Camping 4,,1,3,1,1,4,2,restorative,1
+I103,corpus,Bungee jumping 3,,1,1,1,2,5,5,restorative,1
+I110,corpus,Camping 8,,2,1,2,1,2,3,hauntological,1
+I108,corpus,Camping 6,,3,2,1,3,3,3,hauntological,1
+I78,corpus,Bird 5,,1,2,1,1,4,3,restorative,1
+I115,corpus,Car 2,,3,4,5,2,2,2,hauntological,1
+I96,corpus,Bridge 1,,1,3,2,3,4,2,anemoia,1
+I123,corpus,Car race 1,,1,2,1,1,4,5,restorative,1
+I95,corpus,Bricks 1,,1,2,1,1,3,2,anemoia,1
+I118,corpus,Car accident 3,,3,1,2,4,1,5,inverted,1
+I116,corpus,Car accident 1,,2,1,1,1,1,4,hauntological,1
+I122,corpus,Car crash 3,,2,3,1,1,1,5,hauntological,1
+I117,corpus,Car accident 2,,2,1,2,1,1,4,inverted,1
+I121,corpus,Car crash 2,,3,1,1,1,1,5,inverted,1
+I130,corpus,Cat 1,,3,1,1,3,4,3,inverted,1
+I129,corpus,Cardboard 3,,2,1,3,1,2,1,hauntological,1
+I104,corpus,Camping 1,,1,3,1,1,4,2,restorative,1
+I106,corpus,Camping 3,,1,3,1,2,4,2,anemoia,1
+I120,corpus,Car crash 1,,3,1,2,1,1,4,inverted,1
+I126,corpus,Car race 4,,1,2,1,1,4,5,restorative,1
+I119,corpus,Car accident 4,,3,1,3,1,1,4,hauntological,1
+I133,corpus,Cat 4,,1,2,1,2,5,1,restorative,1
+I134,corpus,Cat 5,,1,2,1,2,5,2,restorative,1
+I101,corpus,Bungee jumping 1,,3,1,1,4,4,5,inverted,1
+I136,corpus,Cat 7,,2,1,1,1,3,4,inverted,1
+I131,corpus,Cat 2,,3,1,2,2,3,3,inverted,1
+I141,corpus,Cat 12,,1,2,1,2,4,2,restorative,1
+I135,corpus,Cat 6,,2,2,1,1,3,2,hauntological,1
+I128,corpus,Cardboard 2,,1,2,1,2,3,2,anemoia,1
+I124,corpus,Car race 2,,1,2,1,1,4,4,restorative,1
+I127,corpus,Cardboard 1,,1,1,1,1,3,2,hauntological,1
+I143,corpus,Cat 14,,1,2,1,2,4,1,restorative,1
+I125,corpus,Car race 3,,1,2,1,1,4,5,restorative,1
+I132,corpus,Cat 3,,1,2,1,2,4,2,restorative,1
+I144,corpus,Celebration 1,,1,2,1,1,4,5,restorative,1
+I148,corpus,Cemetery 3,,2,3,3,2,2,2,hauntological,1
+I138,corpus,Cat 9,,1,1,1,1,5,2,restorative,1
+I137,corpus,Cat 8,,3,2,1,3,3,2,inverted,1
+I149,corpus,Cemetery 4,,2,3,2,2,2,2,hauntological,1
+I146,corpus,Cemetery 1,,5,2,4,3,2,4,inverted,1
+I154,corpus,Child labor 2,,3,4,1,2,2,3,hauntological,1
+I145,corpus,Celebration 2,,2,3,1,3,4,5,restorative,1
+I158,corpus,Chipmunk 1,,1,2,1,2,4,2,restorative,1
+I152,corpus,Cheerleader 2,,1,1,1,2,4,4,restorative,1
+I160,corpus,Chipmunk 3,,1,2,1,1,4,2,restorative,1
+I140,corpus,Cat 11,,1,2,1,2,4,1,restorative,1
+I156,corpus,Child labor 4,,3,4,1,2,2,2,hauntological,1
+I162,corpus,Clean 1,,1,2,1,2,4,2,restorative,1
+I142,corpus,Cat 13,,1,2,1,2,4,1,restorative,1
+I147,corpus,Cemetery 2,,5,2,4,4,1,4,inverted,1
+I161,corpus,City 1,,2,3,2,4,3,3,anemoia,1
+I163,corpus,Cliff diver 1,,2,2,1,2,4,5,restorative,1
+I153,corpus,Child labor 1,,2,4,1,2,3,2,anemoia,1
+I155,corpus,Child labor 3,,2,5,1,2,3,3,anemoia,1
+I168,corpus,Cockroach 3,,3,1,1,2,2,3,inverted,1
+I139,corpus,Cat 10,,1,2,1,1,4,2,restorative,1
+I172,corpus,Cold 2,,1,4,2,1,4,2,restorative,1
+I157,corpus,Children 1,,1,2,1,1,5,4,restorative,1
+I150,corpus,Cemetery 5,,2,4,2,1,2,3,hauntological,1
+I167,corpus,Cockroach 2,,3,1,1,2,1,3,inverted,1
+I151,corpus,Cheerleader 1,,1,2,1,2,4,4,restorative,1
+I164,corpus,Cliff diver 2,,1,3,2,2,4,4,restorative,1
+I173,corpus,Cold 3,,1,3,2,2,3,1,hauntological,1
+I169,corpus,Cockroach 4,,3,1,1,1,1,3,inverted,1
+I177,corpus,Cold 7,,2,3,3,3,3,2,anemoia,1
+I174,corpus,Cold 4,,2,3,1,2,4,2,restorative,1
+I170,corpus,Coffee 1,,1,2,1,2,5,2,restorative,1
+I166,corpus,Cockroach 1,,4,1,1,2,1,4,inverted,1
+I171,corpus,Cold 1,,3,2,2,3,3,4,hauntological,1
+I179,corpus,Collaboration 1,,1,2,1,1,4,3,restorative,1
+I180,corpus,Cotton swabs 1,,1,1,1,1,3,2,restorative,1
+I175,corpus,Cold 5,,2,2,1,4,4,2,anemoia,1
+I185,corpus,Couple 3,,1,3,2,3,2,2,anemoia,1
+I159,corpus,Chipmunk 2,,1,2,1,1,5,3,restorative,1
+I187,corpus,Couple 5,,1,2,1,1,4,2,restorative,1
+I188,corpus,Couple 6,,1,2,1,2,5,2,restorative,1
+I178,corpus,Cold 8,,2,3,2,2,4,2,restorative,1
+I191,corpus,Couple 9,,1,4,1,3,5,2,restorative,1
+I165,corpus,Cliff diver 3,,1,3,1,2,5,4,restorative,1
+I176,corpus,Cold 6,,1,1,1,2,4,5,restorative,1
+I184,corpus,Couple 2,,1,3,1,3,5,2,restorative,1
+I181,corpus,Cotton swabs 2,,2,1,1,2,3,1,hauntological,1
+I195,corpus,Cups 1,,1,2,1,1,4,1,restorative,1
+I194,corpus,Crow 2,,3,2,2,2,3,2,hauntological,1
+I200,corpus,Dancing 2,,2,2,1,4,4,3,anemoia,1
+I189,corpus,Couple 7,,1,3,2,3,4,2,restorative,1
+I182,corpus,Cotton swabs 3,,1,2,1,1,3,1,restorative,1
+I198,corpus,Cups 4,,2,2,3,3,3,2,hauntological,1
+I197,corpus,Cups 3,,1,2,2,2,4,2,restorative,1
+I193,corpus,Crow 1,,2,2,3,1,3,2,hauntological,1
+I203,corpus,Dancing 5,,1,3,1,2,4,3,restorative,1
+I196,corpus,Cups 2,,2,2,3,2,3,1,hauntological,1
+I183,corpus,Couple 1,,1,3,1,4,5,2,restorative,1
+I201,corpus,Dancing 3,,1,3,1,2,4,5,anemoia,1
+I211,corpus,Depressed face 1,,3,2,1,3,2,3,inverted,1
+I202,corpus,Dancing 4,,1,3,1,2,4,4,restorative,1
+I210,corpus,Dead bodies 3,,5,1,2,1,1,5,hauntological,1
+I186,corpus,Couple 4,,1,3,1,3,5,3,restorative,1
+I205,corpus,Dancing 7,,1,3,1,2,5,3,restorative,1
+I207,corpus,Dancing 9,,1,2,1,2,5,4,restorative,1
+I216,corpus,Depressed pose 4,,2,2,2,2,2,2,hauntological,1
+I213,corpus,Depressed pose 1,,1,1,2,1,1,4,hauntological,1
+I208,corpus,Dead bodies 1,,4,1,2,1,1,5,inverted,1
+I218,corpus,Dessert 1,,1,2,1,2,4,2,restorative,1
+I190,corpus,Couple 8,,1,2,1,1,5,3,restorative,1
+I219,corpus,Dessert 2,,1,2,1,2,5,3,restorative,1
+I220,corpus,Dessert 3,,1,1,1,2,5,3,restorative,1
+I215,corpus,Depressed pose 3,,2,2,3,2,1,3,hauntological,1
+I222,corpus,Dessert 5,,1,2,1,2,5,3,restorative,1
+I225,corpus,Dessert 8,,1,3,1,1,5,3,restorative,1
+I199,corpus,Dancing 1,,2,1,1,3,4,4,inverted,1
+I223,corpus,Dessert 6,,1,3,1,1,4,2,restorative,1
+I209,corpus,Dead bodies 2,,4,1,2,1,1,4,hauntological,1
+I217,corpus,Desert 1,,3,4,5,3,2,3,hauntological,1
+I232,corpus,Destruction 9,,3,4,4,2,2,4,hauntological,1
+I206,corpus,Dancing 8,,1,3,1,1,4,3,anemoia,1
+I212,corpus,Depressed face 2,,2,3,1,2,2,3,hauntological,1
+I235,corpus,Destruction 2,,4,1,2,1,1,5,hauntological,1
+I230,corpus,Destruction 7,,4,3,5,2,1,4,hauntological,1
+I231,corpus,Destruction 8,,3,1,4,2,1,4,hauntological,1
+I214,corpus,Depressed pose 2,,4,2,3,3,2,4,inverted,1
+I224,corpus,Dessert 7,,1,4,1,1,4,2,restorative,1
+I228,corpus,Destruction 5,,3,4,4,2,1,4,hauntological,1
+I227,corpus,Destruction 4,,3,1,4,2,1,4,hauntological,1
+I237,corpus,Dirt 2,,2,3,2,2,3,2,anemoia,1
+I243,corpus,Doctor 2,,2,1,1,2,3,4,inverted,1
+I226,corpus,Destruction 1,,4,3,4,2,2,4,hauntological,1
+I244,corpus,Doctor 3,,1,1,1,1,4,2,restorative,1
+I236,corpus,Destruction 3,,3,1,4,1,1,4,hauntological,1
+I221,corpus,Dessert 4,,1,3,1,1,4,2,restorative,1
+I241,corpus,Dock 1,,2,3,3,3,4,2,restorative,1
+I204,corpus,Dancing 6,,1,2,1,1,5,4,restorative,1
+I238,corpus,Dirt 3,,2,2,2,1,2,1,hauntological,1
+I242,corpus,Doctor 1,,1,1,1,1,4,3,restorative,1
+I239,corpus,Dirt 4,,1,2,1,1,3,2,restorative,1
+I248,corpus,Doctor 7,,2,1,1,1,3,4,inverted,1
+I245,corpus,Doctor 4,,2,1,1,1,4,4,restorative,1
+I252,corpus,Dog 2,,1,2,1,1,5,2,restorative,1
+I255,corpus,Dog 5,,1,1,1,2,5,3,restorative,1
+I247,corpus,Doctor 6,,2,1,1,1,3,3,inverted,1
+I249,corpus,Doctor 8,,2,1,1,2,3,4,inverted,1
+I256,corpus,Dog 6,,1,1,1,2,5,3,restorative,1
+I229,corpus,Destruction 6,,2,1,3,1,1,4,hauntological,1
+I240,corpus,Dirt 5,,2,2,3,1,2,2,hauntological,1
+I246,corpus,Doctor 5,,2,1,1,1,3,4,inverted,1
+I259,corpus,Dog 9,,1,2,3,1,2,2,hauntological,1
+I233,corpus,Destruction 10,,3,2,4,2,1,4,hauntological,1
+I254,corpus,Dog 4,,1,2,1,2,5,2,restorative,1
+I253,corpus,Dog 3,,1,2,1,1,4,2,restorative,1
+I251,corpus,Dog 1,,1,2,1,2,4,5,restorative,1
+I265,corpus,Dog 15,,2,4,1,2,4,2,restorative,1
+I261,corpus,Dog 11,,1,1,1,1,5,4,restorative,1
+I263,corpus,Dog 13,,1,1,1,1,5,4,restorative,1
+I262,corpus,Dog 12,,1,2,1,1,5,4,restorative,1
+I264,corpus,Dog 14,,1,2,1,2,5,3,restorative,1
+I270,corpus,Dog 20,,1,2,1,1,5,4,restorative,1
+I269,corpus,Dog 19,,1,1,1,1,5,4,restorative,1
+I276,corpus,Dog 26,,4,1,3,2,1,4,inverted,1
+I274,corpus,Dog 24,,2,1,3,1,1,3,hauntological,1
+I266,corpus,Dog 16,,1,2,1,1,5,2,restorative,1
+I271,corpus,Dog 21,,1,2,1,1,5,3,restorative,1
+I234,corpus,Dirt 1,,2,2,3,2,2,2,hauntological,1
+I279,corpus,Dog 29,,1,2,1,1,4,2,restorative,1
+I268,corpus,Dog 18,,1,1,1,1,5,2,restorative,1
+I260,corpus,Dog 10,,1,2,2,2,4,2,restorative,1
+I280,corpus,Dog 30,,1,3,1,1,4,2,restorative,1
+I281,corpus,Dog 31,,2,2,3,1,2,3,hauntological,1
+I250,corpus,Doctor 9,,2,1,1,1,3,4,inverted,1
+I257,corpus,Dog 7,,2,1,1,2,4,2,restorative,1
+I288,corpus,Eating 1,,1,2,1,1,4,3,restorative,1
+I286,corpus,Drink 2,,2,2,2,3,3,2,anemoia,1
+I278,corpus,Dog 28,,1,3,1,2,5,2,restorative,1
+I289,corpus,Eating 2,,1,1,1,1,5,2,restorative,1
+I285,corpus,Drink 1,,1,2,2,3,4,2,anemoia,1
+I258,corpus,Dog 8,,1,2,1,1,4,2,restorative,1
+I290,corpus,Eating 3,,1,4,1,1,4,2,restorative,1
+I267,corpus,Dog 17,,1,2,1,1,4,2,restorative,1
+I275,corpus,Dog 25,,2,3,3,2,2,2,hauntological,1
+I273,corpus,Dog 23,,2,2,3,2,2,3,hauntological,1
+I293,corpus,Excited face 2,,1,2,1,1,5,4,restorative,1
+I295,corpus,Excited face 4,,2,1,1,2,3,4,inverted,1
+I292,corpus,Excited face 1,,2,2,1,2,4,3,hauntological,1
+I296,corpus,Excited face 5,,1,2,1,1,5,3,restorative,1
+I277,corpus,Dog 27,,2,1,1,1,3,2,inverted,1
+I301,corpus,Exercise 3,,1,1,1,1,4,5,restorative,1
+I287,corpus,Dummy 1,,4,1,1,2,1,4,inverted,1
+I300,corpus,Exercise 2,,1,1,1,1,4,5,restorative,1
+I298,corpus,Excited face 7,,3,2,1,2,4,4,inverted,1
+I284,corpus,Dog attack 3,,2,1,1,1,2,5,inverted,1
+I307,corpus,Explosion 6,,2,1,2,2,1,5,inverted,1
+I299,corpus,Exercise 1,,1,1,1,1,4,4,restorative,1
+I308,corpus,Father 1,,1,2,1,2,5,1,restorative,1
+I304,corpus,Explosion 3,,2,1,1,2,2,5,inverted,1
+I306,corpus,Explosion 5,,5,2,3,4,1,5,hauntological,1
+I291,corpus,Elephant 1,,1,2,1,1,4,3,restorative,1
+I315,corpus,Fence 5,,2,2,2,2,3,2,hauntological,1
+I297,corpus,Excited face 6,,1,3,1,1,5,3,restorative,1
+I310,corpus,Feces 2,,1,1,1,1,1,2,hauntological,1
+I314,corpus,Fence 4,,3,2,3,2,2,2,hauntological,1
+I317,corpus,Ferret 1,,4,2,1,2,2,4,inverted,1
+I313,corpus,Fence 3,,4,2,3,4,2,3,inverted,1
+I309,corpus,Feces 1,,1,1,1,1,1,2,hauntological,1
+I302,corpus,Explosion 1,,2,2,1,2,4,5,restorative,1
+I283,corpus,Dog attack 2,,2,1,1,1,3,5,inverted,1
+I318,corpus,Fire 1,,3,1,1,3,3,5,inverted,1
+I272,corpus,Dog 22,,1,2,1,1,3,2,restorative,1
+I321,corpus,Fire 4,,2,3,2,2,4,5,restorative,1
+I311,corpus,Fence 1,,2,2,2,2,3,2,hauntological,1
+I325,corpus,Fire 8,,3,1,1,4,3,5,inverted,1
+I316,corpus,Fence 6,,2,3,2,2,3,2,hauntological,1
+I319,corpus,Fire 2,,4,2,3,3,2,5,inverted,1
+I312,corpus,Fence 2,,2,3,2,3,3,2,anemoia,1
+I282,corpus,Dog attack 1,,2,1,1,1,2,5,inverted,1
+I330,corpus,Fire hydrant 2,,1,2,2,1,3,2,hauntological,1
+I305,corpus,Explosion 4,,2,1,1,2,2,5,inverted,1
+I328,corpus,Fire 11,,4,1,2,4,1,5,inverted,1
+I327,corpus,Fire 10,,3,2,2,3,2,5,inverted,1
+I331,corpus,Fire hydrant 3,,2,2,2,1,3,1,hauntological,1
+I320,corpus,Fire 3,,4,1,2,3,1,5,inverted,1
+I326,corpus,Fire 9,,3,1,2,2,1,5,inverted,1
+I323,corpus,Fire 6,,3,2,1,3,2,5,inverted,1
+I322,corpus,Fire 5,,3,1,2,2,2,5,inverted,1
+I341,corpus,Flood 1,,4,1,3,2,1,4,inverted,1
+I303,corpus,Explosion 2,,4,1,3,3,1,5,inverted,1
+I342,corpus,Flood 2,,3,1,3,2,2,4,inverted,1
+I324,corpus,Fire 7,,3,1,2,2,1,5,inverted,1
+I334,corpus,Fireworks 1,,1,2,1,3,5,5,restorative,1
+I338,corpus,Fireworks 5,,1,2,1,2,5,5,restorative,1
+I343,corpus,Flood 3,,3,2,3,3,2,3,inverted,1
+I345,corpus,Flowers 2,,1,2,1,2,5,2,restorative,1
+I335,corpus,Fireworks 2,,1,2,1,3,5,5,restorative,1
+I294,corpus,Excited face 3,,1,3,1,1,5,3,restorative,1
+I344,corpus,Flowers 1,,1,2,1,2,5,3,restorative,1
+I350,corpus,Flowers 7,,1,2,1,2,4,2,restorative,1
+I333,corpus,Fireman 1,,2,1,1,1,1,5,hauntological,1
+I337,corpus,Fireworks 4,,1,3,1,3,5,5,restorative,1
+I347,corpus,Flowers 4,,1,2,1,2,5,3,restorative,1
+I352,corpus,Flowers 9,,1,2,1,3,5,3,restorative,1
+I332,corpus,Fire hydrant 4,,1,2,2,1,3,2,anemoia,1
+I349,corpus,Flowers 6,,1,2,1,2,5,3,restorative,1
+I329,corpus,Fire hydrant 1,,2,2,2,1,3,2,hauntological,1
+I346,corpus,Flowers 3,,1,2,1,2,5,3,restorative,1
+I355,corpus,Food 2,,1,1,1,2,5,3,restorative,1
+I339,corpus,Fireworks 6,,1,3,1,2,5,5,restorative,1
+I351,corpus,Flowers 8,,1,2,1,2,5,3,restorative,1
+I348,corpus,Flowers 5,,1,2,1,2,4,2,restorative,1
+I361,corpus,Frisbee 1,,1,2,1,1,5,3,restorative,1
+I359,corpus,Food 6,,1,2,1,1,5,3,restorative,1
+I353,corpus,Flowers 10,,1,2,1,3,4,2,restorative,1
+I336,corpus,Fireworks 3,,1,3,1,2,5,5,restorative,1
+I363,corpus,Frustrated pose 2,,2,1,2,2,1,4,hauntological,1
+I354,corpus,Food 1,,1,2,1,1,4,3,restorative,1
+I365,corpus,Frustrated pose 4,,4,2,1,3,2,4,inverted,1
+I358,corpus,Food 5,,1,2,1,2,4,2,restorative,1
+I364,corpus,Frustrated pose 3,,2,1,1,1,1,4,hauntological,1
+I367,corpus,Frustrated pose 6,,2,1,1,2,4,4,inverted,1
+I373,corpus,Galaxy 3,,2,3,1,4,4,3,anemoia,1
+I371,corpus,Galaxy 1,,2,1,1,4,4,4,anemoia,1
+I366,corpus,Frustrated pose 5,,2,2,1,1,1,4,hauntological,1
+I368,corpus,Frustrated pose 7,,2,1,1,2,1,4,hauntological,1
+I340,corpus,Fireworks 7,,1,2,1,2,5,5,restorative,1
+I375,corpus,Galaxy 5,,2,2,2,4,4,3,inverted,1
+I377,corpus,Galaxy 7,,3,2,1,4,4,3,anemoia,1
+I362,corpus,Frustrated pose 1,,5,1,2,3,1,5,inverted,1
+I370,corpus,Funeral 1,,2,3,2,2,2,2,hauntological,1
+I356,corpus,Food 3,,1,2,1,1,4,3,restorative,1
+I372,corpus,Galaxy 2,,2,1,1,4,4,4,inverted,1
+I376,corpus,Galaxy 6,,3,1,2,4,3,4,inverted,1
+I369,corpus,Frustrated pose 8,,2,1,1,1,3,4,inverted,1
+I385,corpus,Garbage dump 7,,2,1,2,1,2,3,hauntological,1
+I383,corpus,Garbage dump 5,,2,2,3,1,1,3,hauntological,1
+I378,corpus,Galaxy 8,,3,1,1,4,4,4,inverted,1
+I384,corpus,Garbage dump 6,,2,2,3,1,1,2,hauntological,1
+I389,corpus,Gazing 1,,2,3,2,3,3,2,hauntological,1
+I388,corpus,Gargoyle 2,,4,3,2,3,3,3,anemoia,1
+I390,corpus,Gazing 2,,4,2,2,5,3,3,inverted,1
+I379,corpus,Garbage dump 1,,2,2,3,1,1,3,hauntological,1
+I374,corpus,Galaxy 4,,3,1,2,4,3,4,inverted,1
+I395,corpus,Gazing 7,,2,4,3,3,2,2,hauntological,1
+I382,corpus,Garbage dump 4,,3,1,4,2,1,3,hauntological,1
+I397,corpus,Goat 2,,1,2,1,1,4,2,restorative,1
+I380,corpus,Garbage dump 2,,3,1,2,1,1,4,hauntological,1
+I399,corpus,Grass 1,,1,2,1,1,4,2,restorative,1
+I386,corpus,Garbage dump 8,,2,1,2,1,1,3,hauntological,1
+I360,corpus,Football player 1,,1,2,1,1,4,5,restorative,1
+I392,corpus,Gazing 4,,1,3,2,2,3,2,restorative,1
+I357,corpus,Food 4,,1,2,1,1,4,3,restorative,1
+I381,corpus,Garbage dump 3,,2,2,3,1,2,3,hauntological,1
+I404,corpus,Grass 6,,1,2,2,2,4,1,restorative,1
+I401,corpus,Grass 3,,1,2,1,2,4,2,restorative,1
+I403,corpus,Grass 5,,1,1,1,2,4,2,restorative,1
+I402,corpus,Grass 4,,1,2,1,2,4,2,restorative,1
+I398,corpus,Gorrila 1,,1,1,1,1,3,2,restorative,1
+I410,corpus,Guitar 1,,2,3,1,2,4,3,restorative,1
+I414,corpus,Gun 4,,3,1,2,3,2,4,inverted,1
+I396,corpus,Goat 1,,1,2,1,1,4,2,restorative,1
+I405,corpus,Grass 7,,1,2,1,2,4,2,restorative,1
+I408,corpus,Graveyard 3,,5,3,4,3,2,4,hauntological,1
+I413,corpus,Gun 3,,2,3,2,1,2,4,hauntological,1
+I391,corpus,Gazing 3,,1,2,1,1,5,2,restorative,1
+I415,corpus,Gun 5,,2,1,1,1,2,3,inverted,1
+I409,corpus,Graveyard 4,,3,4,2,2,2,2,anemoia,1
+I394,corpus,Gazing 6,,1,3,1,3,4,2,restorative,1
+I416,corpus,Gun 6,,2,1,1,1,2,4,hauntological,1
+I393,corpus,Gazing 5,,2,3,1,3,4,3,restorative,1
+I418,corpus,Gun 8,,2,2,1,1,3,3,restorative,1
+I420,corpus,Gun 10,,2,1,2,1,2,4,hauntological,1
+I427,corpus,Happy face 2,,1,2,1,1,4,3,restorative,1
+I417,corpus,Gun 7,,3,2,2,2,2,4,hauntological,1
+I387,corpus,Gargoyle 1,,4,2,1,3,2,4,inverted,1
+I423,corpus,Hang gliding 2,,1,2,1,2,4,4,restorative,1
+I400,corpus,Grass 2,,1,1,1,1,4,2,restorative,1
+I411,corpus,Gun 1,,4,2,2,2,1,4,hauntological,1
+I421,corpus,Hallway 1,,5,2,4,3,1,4,inverted,1
+I406,corpus,Graveyard 1,,4,3,3,3,2,3,hauntological,1
+I419,corpus,Gun 9,,2,1,2,1,2,3,hauntological,1
+I422,corpus,Hang gliding 1,,1,1,1,2,4,5,restorative,1
+I432,corpus,Heart 2,,1,3,2,2,4,2,restorative,1
+I434,corpus,Horse 1,,1,2,1,1,5,2,restorative,1
+I428,corpus,Happy pose 1,,2,3,2,3,4,4,restorative,1
+I431,corpus,Heart 1,,4,3,3,3,2,3,hauntological,1
+I438,corpus,Injury 2,,3,1,1,1,1,4,inverted,1
+I412,corpus,Gun 2,,2,1,1,1,2,4,hauntological,1
+I425,corpus,Hangover 1,,2,1,2,2,1,3,hauntological,1
+I424,corpus,Hang gliding 3,,1,2,1,2,4,4,restorative,1
+I430,corpus,Happy pose 3,,1,3,2,3,4,3,restorative,1
+I433,corpus,Heart 3,,2,3,2,3,4,2,anemoia,1
+I436,corpus,House 1,,3,4,3,3,3,2,anemoia,1
+I435,corpus,Horse racing 1,,1,2,1,1,4,5,restorative,1
+I445,corpus,Jail 4,,4,2,3,3,1,3,hauntological,1
+I426,corpus,Happy face 1,,1,2,1,1,4,2,restorative,1
+I407,corpus,Graveyard 2,,3,4,3,2,2,2,hauntological,1
+I439,corpus,Injury 3,,3,1,1,1,1,4,inverted,1
+I429,corpus,Happy pose 2,,1,2,1,1,5,4,restorative,1
+I447,corpus,Keyboard 1,,2,2,2,3,3,2,hauntological,1
+I442,corpus,Jail 1,,4,2,4,3,1,3,hauntological,1
+I440,corpus,Injury 4,,4,1,1,1,1,5,inverted,1
+I450,corpus,Keys 1,,1,2,1,1,3,2,hauntological,1
+I443,corpus,Jail 2,,4,2,5,2,1,3,hauntological,1
+I444,corpus,Jail 3,,5,3,5,3,1,4,hauntological,1
+I456,corpus,Lake 2,,1,2,2,2,4,2,restorative,1
+I453,corpus,Knife 1,,2,1,1,1,2,3,inverted,1
+I457,corpus,Lake 3,,2,4,3,4,4,2,anemoia,1
+I446,corpus,Jail 5,,5,2,4,2,1,4,hauntological,1
+I448,corpus,Keyboard 2,,1,2,1,1,3,2,hauntological,1
+I455,corpus,Lake 1,,1,2,2,2,4,2,restorative,1
+I460,corpus,Lake 6,,2,4,3,3,3,2,hauntological,1
+I452,corpus,KKK rally 2,,5,1,1,2,1,5,inverted,1
+I441,corpus,Intensity 1,,3,1,1,1,2,5,inverted,1
+I461,corpus,Lake 7,,2,2,2,4,4,2,anemoia,1
+I451,corpus,KKK rally 1,,5,1,1,2,1,5,inverted,1
+I437,corpus,Injury 1,,3,1,1,1,1,4,inverted,1
+I469,corpus,Lake 15,,2,3,2,4,5,2,restorative,1
+I465,corpus,Lake 11,,2,2,2,3,4,2,anemoia,1
+I449,corpus,Keyboard 3,,2,2,2,3,3,2,hauntological,1
+I454,corpus,Knife 2,,2,3,1,2,3,4,restorative,1
+I458,corpus,Lake 4,,2,3,4,4,3,2,anemoia,1
+I471,corpus,Lake 17,,1,4,1,3,4,3,restorative,1
+I462,corpus,Lake 8,,3,3,3,4,4,2,anemoia,1
+I459,corpus,Lake 5,,1,2,2,2,4,2,anemoia,1
+I474,corpus,Lightning 1,,3,2,3,5,3,3,inverted,1
+I475,corpus,Lightning 2,,3,2,2,3,2,5,inverted,1
+I466,corpus,Lake 12,,1,2,2,4,5,4,anemoia,1
+I472,corpus,Lamb 1,,1,2,1,1,5,2,restorative,1
+I468,corpus,Lake 14,,2,2,2,4,5,3,anemoia,1
+I473,corpus,Lava 1,,4,1,2,4,2,5,inverted,1
+I467,corpus,Lake 13,,2,2,2,4,4,2,anemoia,1
+I479,corpus,Lightning 6,,3,1,2,3,2,5,inverted,1
+I481,corpus,Lion 1,,1,1,1,1,4,4,restorative,1
+I477,corpus,Lightning 4,,4,1,2,3,2,5,inverted,1
+I464,corpus,Lake 10,,1,3,2,3,4,2,anemoia,1
+I486,corpus,Massage 1,,1,1,1,2,4,2,restorative,1
+I478,corpus,Lightning 5,,4,1,3,3,2,5,inverted,1
+I484,corpus,Lion 4,,1,1,2,2,3,1,restorative,1
+I463,corpus,Lake 9,,1,2,2,3,5,2,restorative,1
+I483,corpus,Lion 3,,1,1,1,2,4,2,restorative,1
+I490,corpus,Memorial 2,,2,4,3,2,2,2,hauntological,1
+I492,corpus,Miserable face 1,,1,3,1,1,3,3,anemoia,1
+I494,corpus,Miserable pose 1,,2,2,1,1,1,4,hauntological,1
+I487,corpus,Massage 2,,1,2,1,3,4,2,restorative,1
+I480,corpus,Lightning 7,,4,1,3,3,2,5,inverted,1
+I495,corpus,Miserable pose 2,,3,1,2,2,1,3,inverted,1
+I488,corpus,Meerkat 1,,1,3,1,3,4,2,restorative,1
+I499,corpus,Money 1,,1,2,1,1,4,3,restorative,1
+I498,corpus,Miserable pose 5,,1,2,2,1,2,2,hauntological,1
+I500,corpus,Monkey 1,,3,1,1,2,3,4,inverted,1
+I476,corpus,Lightning 3,,4,1,2,4,3,5,inverted,1
+I493,corpus,Miserable face 2,,1,2,1,1,2,3,hauntological,1
+I505,corpus,Mother 1,,1,4,1,3,5,3,restorative,1
+I491,corpus,Memorial 3,,2,3,3,2,2,2,hauntological,1
+I482,corpus,Lion 2,,3,2,2,2,2,3,hauntological,1
+I506,corpus,Mother 2,,2,1,1,2,5,4,inverted,1
+I501,corpus,Monkey 2,,2,1,2,1,2,2,hauntological,1
+I508,corpus,Mother 4,,1,2,1,1,5,2,restorative,1
+I507,corpus,Mother 3,,1,2,1,1,4,2,restorative,1
+I510,corpus,Mother 6,,1,2,1,1,5,3,restorative,1
+I503,corpus,Monkey 4,,3,1,2,2,2,3,inverted,1
+I497,corpus,Miserable pose 4,,3,1,2,3,2,3,inverted,1
+I511,corpus,Mother 7,,1,2,1,2,5,3,restorative,1
+I512,corpus,Mother 8,,1,1,1,1,5,3,restorative,1
+I502,corpus,Monkey 3,,,,,,,,,0
+I496,corpus,Miserable pose 3,,5,1,2,2,1,5,hauntological,1
+I504,corpus,Moon 1,,2,2,1,3,3,2,anemoia,1
+I515,corpus,Musician 1,,2,3,1,2,3,3,anemoia,1
+I509,corpus,Mother 5,,1,2,1,1,5,2,restorative,1
+I522,corpus,Neutral face 4,,2,3,1,1,3,2,hauntological,1
+I517,corpus,Nature 2,,2,3,2,4,4,2,anemoia,1
+I520,corpus,Neutral face 2,,1,1,1,1,4,2,restorative,1
+I514,corpus,Motocross 1,,1,2,1,2,4,5,restorative,1
+I524,corpus,Neutral pose 1,,1,2,1,1,4,2,restorative,1
+I489,corpus,Memorial 1,,1,3,2,1,4,3,restorative,1
+I523,corpus,Neutral face 5,,1,1,1,1,4,2,restorative,1
+I485,corpus,Lion 5,,3,1,1,1,2,5,inverted,1
+I525,corpus,Neutral pose 2,,2,3,2,4,3,2,anemoia,1
+I528,corpus,Nude couple 2,,1,2,1,1,4,3,restorative,1
+I518,corpus,Neonazi 1,,3,1,1,1,1,4,inverted,1
+I521,corpus,Neutral face 3,,1,1,1,1,4,2,restorative,1
+I526,corpus,Neutral pose 3,,4,2,2,3,2,3,inverted,1
+I533,corpus,Nude couple 7,,1,3,1,3,4,2,restorative,1
+I470,corpus,Lake 16,,2,3,2,4,5,3,restorative,1
+I532,corpus,Nude couple 6,,1,1,1,3,4,4,inverted,1
+I539,corpus,Nude couple 13,,1,3,1,3,5,3,restorative,1
+I519,corpus,Neutral face 1,,1,2,1,1,3,2,restorative,1
+I516,corpus,Nature 1,,2,3,2,3,4,2,restorative,1
+I538,corpus,Nude couple 12,,2,3,1,3,4,3,hauntological,1
+I535,corpus,Nude couple 9,,1,3,1,2,4,4,restorative,1
+I542,corpus,Nude man 2,,1,2,1,1,3,2,restorative,1
+I530,corpus,Nude couple 4,,1,3,1,2,4,3,restorative,1
+I536,corpus,Nude couple 10,,1,3,1,2,4,3,restorative,1
+I527,corpus,Nude couple 1,,1,2,1,3,4,3,restorative,1
+I544,corpus,Nude man 5,,1,1,1,1,4,4,restorative,1
+I513,corpus,Mother 9,,1,2,1,1,5,2,restorative,1
+I540,corpus,Nude couple 14,,1,1,1,1,1,1,restorative,1
+I537,corpus,Nude couple 11,,1,1,1,1,2,4,inverted,1
+I551,corpus,Nude man 12,,1,1,1,1,4,4,restorative,1
+I547,corpus,Nude man 8,,2,1,1,2,3,4,inverted,1
+I550,corpus,Nude man 11,,2,1,1,1,3,3,inverted,1
+I552,corpus,Nude man 13,,2,1,1,2,3,2,inverted,1
+I541,corpus,Nude man 1,,1,2,1,1,4,3,restorative,1
+I543,corpus,Nude man 4,,1,1,1,1,4,4,restorative,1
+I555,corpus,Nude man 16,,1,2,1,1,4,3,restorative,1
+I531,corpus,Nude couple 5,,1,1,1,2,4,4,restorative,1
+I554,corpus,Nude man 15,,3,1,2,4,3,3,inverted,1
+I556,corpus,Nude man 17,,1,1,1,1,3,3,restorative,1
+I548,corpus,Nude man 9,,1,2,2,2,3,2,anemoia,1
+I549,corpus,Nude man 10,,2,1,2,1,2,3,hauntological,1
+I560,corpus,Nude man 3,,1,2,1,2,3,2,anemoia,1
+I545,corpus,Nude man 6,,1,1,1,1,4,3,restorative,1
+I534,corpus,Nude couple 8,,1,1,1,2,4,3,restorative,1
+I546,corpus,Nude man 7,,1,1,1,2,3,3,restorative,1
+I564,corpus,Nude woman 1,,,,,,,,,1
+I563,corpus,Nude man 23,,2,1,1,2,3,4,inverted,1
+I562,corpus,Nude man 22,,2,2,1,3,3,4,anemoia,1
+I565,corpus,Nude woman 2,,1,2,1,1,3,2,hauntological,1
+I553,corpus,Nude man 14,,1,2,1,1,4,4,restorative,1
+I559,corpus,Nude man 20,,1,2,1,1,4,4,restorative,1
+I573,corpus,Nude woman 10,,1,1,1,2,4,4,restorative,1
+I557,corpus,Nude man 18,,1,1,1,1,3,4,restorative,1
+I561,corpus,Nude man 21,,,,,,,,,0
+I572,corpus,Nude woman 9,,1,2,1,2,4,4,hauntological,1
+I570,corpus,Nude woman 7,,2,2,1,2,4,3,hauntological,1
+I568,corpus,Nude woman 5,,2,2,1,3,3,3,anemoia,1
+I569,corpus,Nude woman 6,,2,1,1,3,4,4,inverted,1
+I558,corpus,Nude man 19,,1,2,1,1,4,4,restorative,1
+I529,corpus,Nude couple 3,,1,3,1,2,4,3,restorative,1
+I576,corpus,Nude woman 13,,1,2,1,3,4,4,restorative,1
+I575,corpus,Nude woman 12,,1,1,1,2,3,3,anemoia,1
+I578,corpus,Nude woman 15,,2,1,1,2,4,3,inverted,1
+I581,corpus,Nude woman 18,,1,1,1,1,4,4,restorative,1
+I567,corpus,Nude woman 4,,1,1,1,3,3,3,inverted,1
+I583,corpus,Nude woman 20,,1,1,2,2,4,4,inverted,1
+I579,corpus,Nude woman 16,,3,2,2,3,3,4,inverted,1
+I580,corpus,Nude woman 17,,1,3,1,2,4,4,restorative,1
+I587,corpus,Office supplies 2,,1,2,1,1,3,1,restorative,1
+I582,corpus,Nude woman 19,,2,1,2,1,3,4,hauntological,1
+I586,corpus,Office supplies 1,,1,2,1,1,3,2,restorative,1
+I593,corpus,Ornament 1,,1,3,1,2,4,3,restorative,1
+I566,corpus,Nude woman 3,,,,,,,,,1
+I592,corpus,Orangutan 1,,2,1,1,2,3,2,inverted,1
+I594,corpus,Paintbrush 1,,2,3,2,2,2,2,hauntological,1
+I585,corpus,Nude woman 22,,2,2,2,3,3,4,hauntological,1
+I596,corpus,Paper 2,,1,3,2,1,3,1,restorative,1
+I574,corpus,Nude woman 11,,1,1,1,3,4,4,inverted,1
+I577,corpus,Nude woman 14,,1,2,1,2,3,4,hauntological,1
+I600,corpus,Paperclips 1,,1,2,2,2,3,2,hauntological,1
+I599,corpus,Paper 5,,1,3,2,3,4,2,anemoia,1
+I588,corpus,Office supplies 3,,2,3,1,2,3,3,anemoia,1
+I589,corpus,Office supplies 4,,1,2,1,1,4,2,restorative,1
+I597,corpus,Paper 3,,2,1,1,2,3,2,inverted,1
+I571,corpus,Nude woman 8,,1,3,1,4,4,2,anemoia,1
+I604,corpus,Parachuting 1,,1,2,1,2,4,4,restorative,1
+I606,corpus,Parachuting 3,,1,1,1,2,5,5,restorative,1
+I601,corpus,Paperclips 2,,1,2,1,2,4,3,restorative,1
+I602,corpus,Paperclips 3,,1,2,1,1,3,2,hauntological,1
+I611,corpus,Parasailing 3,,2,1,1,2,4,4,inverted,1
+I612,corpus,Parasailing 4,,3,2,1,4,4,5,inverted,1
+I595,corpus,Paper 1,,1,1,1,1,3,1,restorative,1
+I598,corpus,Paper 4,,2,3,3,2,3,1,hauntological,1
+I605,corpus,Parachuting 2,,2,2,2,4,4,4,hauntological,1
+I613,corpus,Party 1,,1,2,1,2,4,3,restorative,1
+I590,corpus,Office supplies 5,,1,2,2,1,3,2,hauntological,1
+I610,corpus,Parasailing 2,,2,1,1,3,4,4,inverted,1
+I591,corpus,Opossum 1,,3,1,1,1,2,4,inverted,1
+I614,corpus,Path 1,,2,3,2,2,3,2,anemoia,1
+I616,corpus,Penguins 2,,1,2,1,2,5,2,restorative,1
+I603,corpus,Paperclips 4,,2,1,1,3,3,2,inverted,1
+I584,corpus,Nude woman 21,,2,1,1,3,4,4,inverted,1
+I617,corpus,Performance 1,,1,3,1,2,4,3,anemoia,1
+I609,corpus,Parasailing 1,,1,2,1,2,4,3,restorative,1
+I619,corpus,Phone 1,,1,4,2,2,4,2,anemoia,1
+I623,corpus,Picnic 4,,1,3,1,2,4,2,restorative,1
+I628,corpus,Pigeon 3,,2,3,2,2,3,2,anemoia,1
+I615,corpus,Penguins 1,,2,1,2,3,4,2,anemoia,1
+I633,corpus,Pinecone 2,,3,2,2,3,3,2,hauntological,1
+I629,corpus,Pigeon 4,,1,2,1,1,4,2,restorative,1
+I630,corpus,Pigeon 5,,1,2,1,1,4,2,restorative,1
+I634,corpus,Pinecone 3,,1,2,1,1,4,2,restorative,1
+I621,corpus,Picnic 2,,1,3,1,1,5,2,restorative,1
+I607,corpus,Parachuting 4,,2,1,1,3,4,5,inverted,1
+I622,corpus,Picnic 3,,1,3,1,2,4,3,restorative,1
+I636,corpus,Plane crash 1,,4,3,5,3,2,3,hauntological,1
+I627,corpus,Pigeon 2,,1,1,1,1,3,2,restorative,1
+I632,corpus,Pinecone 1,,1,2,1,2,4,2,anemoia,1
+I618,corpus,Performance 2,,1,1,1,2,4,5,restorative,1
+I638,corpus,Plane crash 3,,4,3,5,3,2,4,hauntological,1
+I620,corpus,Picnic 1,,1,3,1,1,5,2,restorative,1
+I640,corpus,Police 1,,3,1,1,2,2,4,inverted,1
+I626,corpus,Pigeon 1,,1,1,1,1,4,2,restorative,1
+I635,corpus,Pinecone 4,,2,2,2,2,3,2,hauntological,1
+I645,corpus,Pollution 1,,3,2,2,2,2,4,hauntological,1
+I646,corpus,Power lines 1,,3,2,3,3,3,2,hauntological,1
+I641,corpus,Police 2,,2,1,1,1,2,5,hauntological,1
+I647,corpus,Present 1,,1,2,1,2,5,2,restorative,1
+I648,corpus,Present 2,,1,2,1,2,4,2,restorative,1
+I608,corpus,Parade 1,,1,2,1,1,5,5,restorative,1
+I625,corpus,Pig 2,,1,2,1,1,4,1,restorative,1
+I624,corpus,Pig 1,,1,2,1,1,4,2,restorative,1
+I631,corpus,Pigeon 6,,1,2,1,1,3,2,hauntological,1
+I651,corpus,Pumpkin 1,,1,2,1,1,4,2,restorative,1
+I642,corpus,Police 3,,1,3,1,1,4,4,restorative,1
+I649,corpus,Prison 1,,5,1,4,3,1,4,hauntological,1
+I643,corpus,Police 4,,2,1,1,1,2,4,hauntological,1
+I639,corpus,Plane crash 4,,3,3,4,2,2,3,hauntological,1
+I662,corpus,Research 1,,4,2,1,3,3,5,inverted,1
+I637,corpus,Plane crash 2,,4,3,5,3,2,3,hauntological,1
+I659,corpus,Railroad 1,,4,3,4,4,2,2,hauntological,1
+I652,corpus,Raccoon 1,,3,2,3,2,2,3,hauntological,1
+I644,corpus,Police 5,,3,1,1,1,2,4,inverted,1
+I650,corpus,Prison 2,,4,2,3,2,2,3,hauntological,1
+I654,corpus,Rafting 2,,1,1,1,1,4,5,restorative,1
+I670,corpus,Rocks 3,,1,1,1,1,3,1,restorative,1
+I663,corpus,Road 1,,3,4,3,4,3,2,anemoia,1
+I660,corpus,Rainbow 1,,2,2,3,4,4,3,inverted,1
+I668,corpus,Rocks 1,,1,2,1,1,3,2,restorative,1
+I653,corpus,Rafting 1,,1,1,1,1,4,5,restorative,1
+I664,corpus,Rock climbing 1,,1,1,1,1,4,5,restorative,1
+I673,corpus,Rocks 6,,1,1,1,1,3,1,hauntological,1
+I661,corpus,Rainbow 2,,2,3,2,4,4,2,restorative,1
+I675,corpus,Rollercoaster 1,,1,3,1,1,4,5,restorative,1
+I667,corpus,Rock climbing 4,,1,2,1,1,4,4,restorative,1
+I671,corpus,Rocks 4,,1,2,1,1,3,2,anemoia,1
+I656,corpus,Rafting 4,,1,2,1,1,5,5,restorative,1
+I657,corpus,Rafting 5,,1,1,1,1,4,5,restorative,1
+I666,corpus,Rock climbing 3,,1,1,1,1,4,5,restorative,1
+I658,corpus,Rafting 6,,1,1,1,1,4,5,restorative,1
+I674,corpus,Rocks 7,,1,1,1,1,3,1,hauntological,1
+I677,corpus,Rollercoaster 3,,1,2,1,1,4,5,restorative,1
+I676,corpus,Rollercoaster 2,,1,3,1,1,4,5,restorative,1
+I681,corpus,Roofing 4,,2,3,3,2,3,2,hauntological,1
+I684,corpus,Rubber duck 1,,2,2,1,3,4,3,inverted,1
+I655,corpus,Rafting 3,,1,1,1,1,4,5,restorative,1
+I685,corpus,Rugby 1,,1,2,1,1,3,5,restorative,1
+I687,corpus,Running away 1,,4,3,2,4,2,3,inverted,1
+I665,corpus,Rock climbing 2,,1,1,1,2,4,5,restorative,1
+I692,corpus,Sad face 5,,2,3,1,3,3,2,hauntological,1
+I679,corpus,Roofing 2,,1,3,1,2,3,2,anemoia,1
+I680,corpus,Roofing 3,,1,3,1,2,3,2,anemoia,1
+I678,corpus,Roofing 1,,1,3,2,2,3,2,anemoia,1
+I695,corpus,Sad face 8,,2,3,2,2,2,3,hauntological,1
+I686,corpus,Rugby 2,,1,3,1,2,4,3,anemoia,1
+I683,corpus,Rooster 1,,3,2,1,2,3,4,inverted,1
+I688,corpus,Sad face 1,,1,1,1,1,2,4,hauntological,1
+I701,corpus,Sad pose 5,,2,2,3,3,2,2,hauntological,1
+I689,corpus,Sad face 2,,1,2,1,1,2,4,restorative,1
+I691,corpus,Sad face 4,,2,3,1,1,2,2,hauntological,1
+I698,corpus,Sad pose 2,,3,2,3,4,2,2,inverted,1
+I696,corpus,Sad face 9,,1,1,1,1,1,5,hauntological,1
+I697,corpus,Sad pose 1,,1,2,1,1,2,3,hauntological,1
+I703,corpus,Sad pose 7,,3,4,1,2,2,3,anemoia,1
+I669,corpus,Rocks 2,,1,2,1,1,3,1,anemoia,1
+I672,corpus,Rocks 5,,1,2,2,1,3,1,anemoia,1
+I704,corpus,Sailing 1,,1,2,1,1,4,4,restorative,1
+I702,corpus,Sad pose 6,,2,3,2,1,2,2,hauntological,1
+I709,corpus,Scared face 1,,3,1,1,2,3,3,inverted,1
+I690,corpus,Sad face 3,,4,1,1,2,2,4,inverted,1
+I694,corpus,Sad face 7,,1,2,1,1,4,4,restorative,1
+I682,corpus,Roofing 5,,1,2,1,1,3,2,anemoia,1
+I705,corpus,Sailing 2,,1,3,1,2,4,4,restorative,1
+I707,corpus,Satellite 1,,2,2,3,2,4,3,hauntological,1
+I717,corpus,School 2,,1,2,1,1,5,4,restorative,1
+I716,corpus,School 1,,1,2,1,1,4,3,restorative,1
+I693,corpus,Sad face 6,,1,2,1,1,3,2,hauntological,1
+I708,corpus,Scared cat 1,,1,2,1,1,4,3,restorative,1
+I715,corpus,Scary face 2,,5,1,1,3,2,5,inverted,1
+I711,corpus,Scared face 3,,5,1,2,4,2,4,inverted,1
+I721,corpus,School 6,,1,3,1,1,4,2,anemoia,1
+I710,corpus,Scared face 2,,2,1,1,1,3,4,inverted,1
+I712,corpus,Scared face 4,,3,2,1,2,2,3,hauntological,1
+I718,corpus,School 3,,1,2,1,1,4,2,anemoia,1
+I713,corpus,Scared face 5,,5,1,2,3,1,5,inverted,1
+I720,corpus,School 5,,1,3,1,2,3,2,anemoia,1
+I714,corpus,Scary face 1,,5,2,1,4,1,5,inverted,1
+I725,corpus,Severed finger 1,,3,1,1,2,2,3,inverted,1
+I729,corpus,Shark 4,,4,1,1,2,2,4,inverted,1
+I722,corpus,School 7,,1,2,1,1,4,2,restorative,1
+I719,corpus,School 4,,1,3,1,1,4,2,anemoia,1
+I727,corpus,Shark 2,,3,1,1,2,2,4,inverted,1
+I731,corpus,Shark 6,,3,1,1,3,3,4,inverted,1
+I730,corpus,Shark 5,,4,1,1,3,2,4,inverted,1
+I728,corpus,Shark 3,,3,1,1,3,3,4,inverted,1
+I699,corpus,Sad pose 3,,2,3,2,2,2,2,hauntological,1
+I732,corpus,Shark 7,,2,1,1,2,3,4,inverted,1
+I723,corpus,School 8,,1,3,1,1,4,3,anemoia,1
+I726,corpus,Shark 1,,3,1,1,2,2,4,inverted,1
+I735,corpus,Shark 10,,4,1,1,2,2,4,inverted,1
+I700,corpus,Sad pose 4,,4,1,3,3,1,3,inverted,1
+I706,corpus,Sailing 3,,1,3,1,2,4,3,restorative,1
+I738,corpus,Shot 1,,2,1,1,1,2,3,inverted,1
+I744,corpus,Sidewalk 1,,2,3,2,3,3,2,anemoia,1
+I737,corpus,Shooting 1,,1,1,1,1,3,5,restorative,1
+I740,corpus,Shot 3,,3,1,1,2,2,4,inverted,1
+I745,corpus,Sidewalk 2,,2,2,3,2,3,2,hauntological,1
+I743,corpus,Siblings 1,,1,2,1,2,5,2,restorative,1
+I733,corpus,Shark 8,,3,1,1,2,3,4,inverted,1
+I724,corpus,Seal 1,,1,1,1,1,4,4,restorative,1
+I742,corpus,Shot 5,,2,1,1,1,2,3,hauntological,1
+I752,corpus,Skijump 2,,2,2,1,2,4,4,restorative,1
+I734,corpus,Shark 9,,3,1,1,2,3,4,inverted,1
+I754,corpus,Sky 1,,2,3,2,2,3,2,hauntological,1
+I739,corpus,Shot 2,,1,1,1,1,3,4,restorative,1
+I750,corpus,Skier 1,,2,1,1,3,4,5,inverted,1
+I756,corpus,Skydiving 2,,2,1,1,3,4,5,inverted,1
+I741,corpus,Shot 4,,3,1,2,2,2,3,inverted,1
+I758,corpus,Skydiving 4,,2,1,1,2,4,5,inverted,1
+I759,corpus,Skydiving 5,,2,1,1,3,4,5,inverted,1
+I747,corpus,Sidewalk 4,,2,4,3,3,4,2,anemoia,1
+I746,corpus,Sidewalk 3,,1,3,1,2,3,2,anemoia,1
+I748,corpus,Sidewalk 5,,1,3,1,2,4,2,anemoia,1
+I763,corpus,Sleepy pose 2,,2,1,1,2,3,2,hauntological,1
+I766,corpus,Smiling face 1,,3,2,1,3,4,3,inverted,1
+I762,corpus,Sleepy pose 1,,1,3,1,3,5,1,restorative,1
+I757,corpus,Skydiving 3,,2,1,1,3,4,5,inverted,1
+I764,corpus,Sleepy pose 3,,2,3,1,2,3,2,hauntological,1
+I765,corpus,Sleepy pose 4,,2,1,2,2,2,2,hauntological,1
+I755,corpus,Skydiving 1,,1,1,1,2,4,5,restorative,1
+I749,corpus,Sidewalk 6,,1,2,1,1,3,2,anemoia,1
+I753,corpus,Skinhead 1,,2,1,1,1,3,4,inverted,1
+I760,corpus,Skyscraper 1,,2,2,2,2,3,2,hauntological,1
+I769,corpus,Snake 3,,3,1,1,2,2,4,inverted,1
+I773,corpus,Snow 1,,1,2,2,3,4,2,restorative,1
+I761,corpus,Skyscraper 2,,2,1,2,1,3,3,hauntological,1
+I774,corpus,Snow 2,,2,2,3,4,3,2,inverted,1
+I775,corpus,Snow 3,,2,1,1,3,3,2,inverted,1
+I767,corpus,Snake 1,,3,1,1,2,2,3,inverted,1
+I782,corpus,Soldiers 1,,2,4,1,3,2,4,hauntological,1
+I776,corpus,Snow 4,,1,2,1,3,4,1,restorative,1
+I770,corpus,Snake 4,,4,1,1,2,2,4,inverted,1
+I777,corpus,Snow 5,,2,2,1,3,4,2,anemoia,1
+I784,corpus,Soldiers 3,,2,2,1,1,3,3,hauntological,1
+I751,corpus,Skijump 1,,3,2,3,2,2,4,hauntological,1
+I788,corpus,Soldiers 7,,2,3,1,1,3,3,anemoia,1
+I780,corpus,Socks 1,,1,2,1,1,3,1,hauntological,1
+I771,corpus,Snake 5,,3,2,2,2,2,3,inverted,1
+I736,corpus,Shark 11,,3,1,1,2,3,4,inverted,1
+I791,corpus,Soldiers 10,,3,3,1,2,2,4,hauntological,1
+I787,corpus,Soldiers 6,,2,3,1,1,3,4,anemoia,1
+I786,corpus,Soldiers 5,,2,4,1,1,4,3,anemoia,1
+I790,corpus,Soldiers 9,,2,1,2,1,2,4,hauntological,1
+I783,corpus,Soldiers 2,,2,2,1,2,3,4,restorative,1
+I792,corpus,Soup 1,,1,2,1,2,4,2,restorative,1
+I793,corpus,Spider 1,,5,1,2,3,2,4,inverted,1
+I789,corpus,Soldiers 8,,2,1,2,1,2,4,hauntological,1
+I785,corpus,Soldiers 4,,2,2,1,2,3,4,restorative,1
+I779,corpus,Soccer 2,,1,2,3,2,4,3,hauntological,1
+I795,corpus,Statue 1,,1,2,1,2,4,1,anemoia,1
+I772,corpus,Snake 6,,2,1,1,1,3,2,inverted,1
+I799,corpus,Stingray 3,,3,1,1,4,4,3,inverted,1
+I768,corpus,Snake 2,,3,1,1,2,2,4,inverted,1
+I798,corpus,Stingray 2,,3,1,1,3,3,2,inverted,1
+I802,corpus,Storage 3,,1,2,2,1,3,2,hauntological,1
+I794,corpus,Spider 2,,4,1,1,2,2,4,inverted,1
+I803,corpus,Street 1,,2,3,2,1,3,2,anemoia,1
+I778,corpus,Soccer 1,,2,3,3,2,3,2,hauntological,1
+I801,corpus,Storage 2,,1,1,2,1,3,2,hauntological,1
+I806,corpus,Street 4,,2,3,3,2,3,2,hauntological,1
+I781,corpus,Solar panel 1,,2,1,2,2,4,3,hauntological,1
+I804,corpus,Street 2,,3,2,3,3,2,2,hauntological,1
+I805,corpus,Street 3,,2,3,3,2,3,2,anemoia,1
+I814,corpus,Sunset 5,,2,3,2,3,4,3,restorative,1
+I797,corpus,Stingray 1,,3,1,2,3,3,2,inverted,1
+I817,corpus,Surgery 2,,3,1,1,2,3,4,inverted,1
+I807,corpus,Street 5,,3,2,4,2,2,2,hauntological,1
+I808,corpus,Sun 1,,2,1,1,3,3,5,inverted,1
+I822,corpus,Surprise 2,,1,2,1,1,5,4,restorative,1
+I811,corpus,Sunset 2,,2,3,2,3,4,4,restorative,1
+I800,corpus,Storage 1,,2,1,2,1,3,2,hauntological,1
+I821,corpus,Surprise 1,,2,1,1,3,4,5,inverted,1
+I810,corpus,Sunset 1,,4,2,2,4,3,5,inverted,1
+I796,corpus,Statue 2,,3,3,2,3,3,2,hauntological,1
+I813,corpus,Sunset 4,,1,3,2,3,5,2,restorative,1
+I823,corpus,Swimming 1,,1,1,1,1,4,4,restorative,1
+I827,corpus,Thunderstorm 3,,4,2,3,3,2,5,inverted,1
+I826,corpus,Thunderstorm 2,,4,1,2,4,3,5,inverted,1
+I824,corpus,Swingset 1,,2,3,4,2,2,2,hauntological,1
+I809,corpus,Sunflower 1,,1,2,1,2,5,2,restorative,1
+I828,corpus,Thunderstorm 4,,5,2,3,4,2,4,inverted,1
+I818,corpus,Surgery 3,,2,1,1,1,3,4,inverted,1
+I815,corpus,Sunset 6,,1,3,2,3,4,3,restorative,1
+I834,corpus,Thunderstorm 10,,4,1,2,3,2,5,inverted,1
+I812,corpus,Sunset 3,,2,3,2,3,4,4,restorative,1
+I832,corpus,Thunderstorm 8,,4,2,3,3,2,5,inverted,1
+I833,corpus,Thunderstorm 9,,4,2,3,4,2,5,inverted,1
+I819,corpus,Surgery 4,,2,1,1,1,3,4,inverted,1
+I825,corpus,Thunderstorm 1,,5,1,2,3,1,5,inverted,1
+I829,corpus,Thunderstorm 5,,3,1,1,4,3,5,inverted,1
+I830,corpus,Thunderstorm 6,,4,1,2,4,2,5,inverted,1
+I838,corpus,Tiger 2,,2,1,1,1,3,5,inverted,1
+I816,corpus,Surgery 1,,3,1,1,2,2,4,inverted,1
+I836,corpus,Tickling 1,,2,2,1,1,4,5,restorative,1
+I840,corpus,Timber 2,,1,2,1,1,3,2,restorative,1
+I831,corpus,Thunderstorm 7,,4,1,2,3,2,5,inverted,1
+I842,corpus,Timber 4,,1,2,1,1,3,2,restorative,1
+I839,corpus,Timber 1,,2,2,2,2,3,3,hauntological,1
+I835,corpus,Thunderstorm 11,,4,2,3,3,2,5,inverted,1
+I852,corpus,Tornado 5,,4,1,2,3,2,5,inverted,1
+I849,corpus,Tornado 2,,5,3,4,3,1,5,hauntological,1
+I848,corpus,Tornado 1,,5,2,3,4,1,5,inverted,1
+I837,corpus,Tiger 1,,2,1,1,2,3,5,inverted,1
+I843,corpus,Toast 1,,1,2,1,2,4,4,restorative,1
+I847,corpus,Toilet 4,,4,2,5,3,1,3,hauntological,1
+I854,corpus,Traffic 1,,2,2,3,4,4,5,inverted,1
+I845,corpus,Toilet 2,,2,1,2,1,3,1,inverted,1
+I851,corpus,Tornado 4,,4,1,3,3,1,5,inverted,1
+I857,corpus,Volcano 2,,4,1,2,4,2,5,inverted,1
+I841,corpus,Timber 3,,2,2,1,1,3,2,hauntological,1
+I846,corpus,Toilet 3,,3,2,3,2,3,2,inverted,1
+I860,corpus,Wall 2,,1,1,1,1,3,1,hauntological,1
+I858,corpus,Volcano 3,,3,2,3,3,3,4,inverted,1
+I844,corpus,Toilet 1,,2,1,2,1,3,1,inverted,1
+I856,corpus,Volcano 1,,4,1,2,3,2,4,inverted,1
+I855,corpus,Tumor 1,,5,1,1,2,1,4,inverted,1
+I872,corpus,Waterfall 1,,3,1,2,4,3,4,inverted,1
+I861,corpus,Wall 3,,1,3,1,2,3,1,anemoia,1
+I869,corpus,War 6,,5,1,1,3,1,5,inverted,1
+I862,corpus,Wall 4,,2,1,2,2,2,2,hauntological,1
+I870,corpus,War 7,,2,1,1,1,2,4,hauntological,1
+I867,corpus,War 4,,2,2,1,1,2,5,hauntological,1
+I850,corpus,Tornado 3,,5,1,3,3,1,5,inverted,1
+I866,corpus,War 3,,2,1,1,1,2,4,hauntological,1
+I863,corpus,Wall 5,,1,1,1,1,3,1,hauntological,1
+I864,corpus,War 1,,5,1,1,1,1,5,inverted,1
+I871,corpus,War 8,,3,4,1,1,1,5,hauntological,1
+I859,corpus,Wall 1,,1,2,1,2,3,1,anemoia,1
+I874,corpus,Wedding 1,,1,2,1,2,5,3,restorative,1
+I853,corpus,Torture chamber 1,,4,3,3,2,2,3,hauntological,1
+I876,corpus,Wedding 3,,1,3,1,3,5,2,restorative,1
+I880,corpus,Wedding 7,,1,3,1,2,4,2,restorative,1
+I868,corpus,War 5,,3,4,1,2,2,5,hauntological,1
+I881,corpus,Wedding 8,,2,3,1,2,4,2,restorative,1
+I877,corpus,Wedding 4,,1,2,1,2,5,2,restorative,1
+I878,corpus,Wedding 5,,1,2,1,2,5,2,restorative,1
+I882,corpus,Wedding 9,,1,2,1,2,5,3,restorative,1
+I879,corpus,Wedding 6,,1,4,1,3,5,2,restorative,1
+I884,corpus,Wedding 11,,1,2,2,2,4,2,anemoia,1
+I888,corpus,Wolf 1,,1,2,1,2,4,2,restorative,1
+I894,corpus,Yarn 4,,1,3,1,2,4,2,anemoia,1
+I820,corpus,Surgery 5,,2,1,1,1,3,4,restorative,1
+I885,corpus,Wedding 12,,2,2,3,2,3,2,hauntological,1
+I875,corpus,Wedding 2,,1,2,1,2,5,2,restorative,1
+I887,corpus,Windmill 1,,1,1,2,1,4,2,restorative,1
+I883,corpus,Wedding 10,,1,3,1,2,5,2,restorative,1
+I891,corpus,Yarn 1,,2,3,2,2,3,1,anemoia,1
+I896,corpus,Yoga 2,,1,2,2,2,4,3,restorative,1
+I889,corpus,Wolf 2,,3,1,1,1,2,4,inverted,1
+I899,corpus,Yoga 5,,1,3,2,3,4,2,restorative,1
+I892,corpus,Yarn 2,,1,3,2,2,3,1,anemoia,1
+I893,corpus,Yarn 3,,1,2,1,2,4,1,restorative,1
+I897,corpus,Yoga 3,,1,2,2,2,4,2,restorative,1
+I890,corpus,Woods 1,,4,1,3,3,2,4,inverted,1
+I900,corpus,Zebra 1,,1,1,1,1,4,2,restorative,1
+I886,corpus,Wedding ring 1,,1,2,1,2,4,2,restorative,1
+I898,corpus,Yoga 4,,1,2,1,3,5,4,restorative,1
+I895,corpus,Yoga 1,,1,1,1,2,4,4,restorative,1
+I873,corpus,Weapon 1,,2,1,1,1,3,5,hauntological,1

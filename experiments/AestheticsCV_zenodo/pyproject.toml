@@ -1,0 +1,21 @@
+[project]
+name = "aestheticscv-zenodo"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Paul Lin", email = "plin5166@gmail.com" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "pandas>=3.1.1",
+    "pillow>=13.0.0",
+    "requests>=2.34.2",
+]
+
+[project.scripts]
+aestheticscv-zenodo = "aestheticscv_zenodo:main"
+
+[build-system]
+requires = ["uv_build>=0.13.5,<0.14.0"]
+build-backend = "uv_build"

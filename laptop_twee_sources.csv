@@ -1,0 +1,23 @@
+board,url,kind,note
+# ---- laptop twee: artists named as laptop twee by the Guardian (Nov 2026), Stereogum, Chasing Fridays, Substack and Wikipedia
+# Boards are split by artist so a whole board (= other artists) can be held out: the honest test.
+laptop twee,https://worldpeacedmt.bandcamp.com,target,Worldpeace DMT: Guardian Guide 268; Stereogum 'not your father's laptop twee'
+laptop twee,https://thefemcels.bandcamp.com,target,Femcels: shares a member (Rowan Miles) with Worldpeace DMT; Guardian calls them similarly minded
+laptop twee ♡,https://earmusic5.bandcamp.com,target,ear: Rumspringa; named laptop twee in Substack and Wikipedia
+laptop twee ♡,https://cootiecatcher69.bandcamp.com,target,cootie catcher: named as laptop twee on Wikipedia (per research report)
+laptop twee bands,https://frostchildren.bandcamp.com,target,Frost Children: named as laptop twee on Wikipedia (per research report)
+laptop twee bands,https://bassvictim.bandcamp.com,target,Bassvictim: Guardian; Substack's favourite laptop twee album. ADDRESS NOT VERIFIED - fix if it fails
+# Add more from the two Rate Your Music lists (open them in a browser):
+#   https://rateyourmusic.com/list/aircrickets/laptop-twee-2/
+#   https://rateyourmusic.com/list/LindseyLauren/dawk-laptop-twee/
+# Names from Chasing Fridays (Oct 2026) still to find: Atum Bruit, b7lanket, Luko M, Seven Blair Angels, the sound chalk makes, Grolth
+# 300SkullsAndCounting (This Is Spa Town!, XL) from the Guardian.
+# ---- decoys: Bandcamp's own "you might also like" neighbours of ear and Worldpeace DMT. Hard negatives: same listeners, different scene.
+hyperpop,https://ninajirachi.bandcamp.com,decoy,Recommended next to ear (I Love My Computer)
+digicore,https://d4ine.bandcamp.com,decoy,daine; recommended next to Worldpeace DMT
+shoegaze,https://parannoul.bandcamp.com,decoy,Recommended next to ear
+indie,https://cindylee.bandcamp.com,decoy,Cindy Lee; recommended next to Worldpeace DMT
+experimental,https://losthuthanaka.bandcamp.com,decoy,Recommended next to ear and Worldpeace DMT
+experimental hip hop,https://jpegmafia.bandcamp.com,decoy,Recommended next to ear
+indietronica,https://styrofoam-music.bandcamp.com,decoy,Recommended next to ear
+# Strongly suggested: add classic twee pop (the genre laptop twee grew from) as a decoy board named "twee pop".

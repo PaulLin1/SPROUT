@@ -1,0 +1,355 @@
+a,b,weight
+Fairycore,Fairytale,21
+Cassette Futurism,Futurism,13
+Fairycore,Fantasy,13
+Dreamcore,Weirdcore,10
+Fantasy,Weirdcore,8
+Ethereal,Fairycore,8
+Kidcore,Maximalism,7
+Cassette Futurism,Industrial,7
+Cassette Futurism,Fantasy,6
+Cassette Futurism,Cyberpunk,6
+Gothic,Medieval,6
+Dreamcore,Fantasy,6
+Fairycore,Gothic,6
+Cassette Futurism,Retrofuturism,5
+Futurism,Retrofuturism,5
+Country,Western,5
+Horror,Weirdcore,5
+Ethereal,Fantasy,5
+Futurism,Industrial,4
+Fairytale,Fantasy,4
+Fantasy,Futurism,4
+Fantasy,Motomami,4
+Dreamcore,Ethereal,4
+Dreamcore,Fairycore,4
+Fairycore,Medieval,4
+Kidcore,Preschool Pop,3
+Mallsoft,Vaporwave,3
+Cyberpunk,Vaporwave,3
+Industrial,Retrofuturism,3
+Liminal Space,Racing,3
+Fantasy,Gothic,3
+Fantasy,Medieval,3
+Surrealism,Weirdcore,3
+Futurism,Weirdcore,3
+Gothic,Weirdcore,3
+Motomami,Weirdcore,3
+Industrial,Weirdcore,3
+Fairycore,Futurism,3
+Fairycore,Weirdcore,3
+Dark Fantasy,Fantasy,3
+Dreamcore,Gothic,3
+Dreamcore,Surrealism,3
+Country,Fantasy,3
+Biopunk,Fairycore,3
+Art Nouveau,Fairycore,3
+Barbiecore,Decora,2
+Kidcore,Swag,2
+Christmas,Kidcore,2
+Googie,Realism,2
+Fantasy,Retrofuturism,2
+Cyberpunk,Futurism,2
+Cyberpunk,Retrofuturism,2
+Retrofuturism,Surrealism,2
+Horror,Retrofuturism,2
+Scene,Solarpunk,2
+Futurism,Realism,2
+Futurism,Solarpunk,2
+Solarpunk,Tropical,2
+Fantasy,Halloween,2
+Magician,Weirdcore,2
+Foodie,Weirdcore,2
+Baroque,Weirdcore,2
+Doomer,Weirdcore,2
+Avant-garde,Weirdcore,2
+Medieval,Weirdcore,2
+Analog Horror,Liminal Space,2
+Analog Horror,Futurism,2
+Dark Fantasy,Motomami,2
+Decora,Gothic,2
+Country,Dreamcore,2
+Country,Ethereal,2
+Cleancore,Fairycore,2
+Dark Fantasy,Fairycore,2
+Dark Fantasy,Fairytale,2
+Fairycore,Foodie,2
+Decora,Fairycore,2
+Fairycore,Neo-Y2K,2
+Biopunk,Gothic,2
+Art Nouveau,Fantasy,2
+Country,Fairycore,2
+Fairycore,Solarpunk,2
+Ethereal,Psychedelia,2
+Fairycore,Psychedelia,2
+Cluttercore,Cottagecore,1
+Cottagecore,Suburbia,1
+Barbiecore,Neo-Y2K,1
+Decora,Kidcore,1
+Kidcore,Medieval,1
+Kidcore,Nostalgiacore,1
+Medieval,Nostalgiacore,1
+Medieval,Swag,1
+Nostalgiacore,Swag,1
+Dollar Store Vernacular,Kidcore,1
+Baddie,Kidcore,1
+Fantasy,Mallsoft,1
+Fantasy,Vaporwave,1
+Mallsoft,Retrofuturism,1
+Retrofuturism,Vaporwave,1
+Industrial,Vaporwave,1
+Decadence,Tropical,1
+Decadence,Vaporwave,1
+Tropical,Vaporwave,1
+Vaporwave,Vectorheart,1
+Dreamcore,Vaporwave,1
+Bondage,Cassette Futurism,1
+Cassette Futurism,Vaporwave,1
+Cassette Futurism,Vectorheart,1
+Cassette Futurism,Mecha,1
+Foodie,Retrofuturism,1
+Christmas,Retrofuturism,1
+Racing,Retrofuturism,1
+Brutalism,Industrial,1
+Brutalism,Retrofuturism,1
+Country,Desert,1
+Desert,Western,1
+Vintage Americana,Western,1
+Gothic,Net.art,1
+Gothic,Skeuomorphism,1
+Net.art,Skeuomorphism,1
+Normcore,Scene,1
+Normcore,Solarpunk,1
+Normcore,Western,1
+Scene,Western,1
+Solarpunk,Western,1
+Country,Medieval,1
+Country,Realism,1
+Medieval,Realism,1
+Medieval,Western,1
+Realism,Western,1
+Fantasy,Liminal Space,1
+Fantasy,Racing,1
+Emo,Liminal Space,1
+Emo,Racing,1
+Hopecore,Liminal Space,1
+Liminal Space,Modernism,1
+Liminal Space,Weirdcore,1
+Brutalism,Fairytale,1
+Brutalism,Fantasy,1
+Brutalism,Futurism,1
+Brutalism,Realism,1
+Brutalism,Solarpunk,1
+Brutalism,Tropical,1
+Futurism,Tropical,1
+Realism,Solarpunk,1
+Realism,Tropical,1
+Equestrian,Punk,1
+Equestrian,Western,1
+Punk,Western,1
+Corporate,Desert,1
+Gothic,Modernism,1
+Cyberpunk,Net.art,1
+Cyberpunk,Rave,1
+Futurism,Net.art,1
+Gothic,Punk,1
+Maximalism,Weirdcore,1
+Weirdcore,Witchcore,1
+Horror,Surrealism,1
+Skater,Weirdcore,1
+Low Poly,Weirdcore,1
+Mushroomcore,Weirdcore,1
+Doomer,Fantasy,1
+Doomer,Motomami,1
+Bauhaus,Industrial,1
+Bauhaus,Weirdcore,1
+Gen X Soft Club,Weirdcore,1
+Kingcore,Weirdcore,1
+Avant-garde,Gorpcore,1
+Avant-garde,Motomami,1
+Gorpcore,Motomami,1
+Gorpcore,Weirdcore,1
+Flat Design,Weirdcore,1
+Baddie,Weirdcore,1
+Net.art,Weirdcore,1
+Arts and Crafts,Weirdcore,1
+Old Web,Weirdcore,1
+Weirdcore,Wonderland,1
+Brutalism,Weirdcore,1
+Desert,Solarpunk,1
+Desert,Tropical,1
+Desert,Weirdcore,1
+Solarpunk,Weirdcore,1
+Tropical,Weirdcore,1
+Fantasy,Surrealism,1
+Normcore,Skeuomorphism,1
+Normcore,Weirdcore,1
+Skeuomorphism,Weirdcore,1
+Psychedelia,Weirdcore,1
+Country,Modernisme,1
+Country,Weirdcore,1
+Modernisme,Weirdcore,1
+Corporate,Fantasy,1
+Corporate,Lolita,1
+Corporate,Motomami,1
+Corporate,Weirdcore,1
+Fantasy,Lolita,1
+Lolita,Motomami,1
+Lolita,Weirdcore,1
+Gothic,Sadgirl,1
+Sadgirl,Weirdcore,1
+Decora,Weirdcore,1
+Cyberpunk,Fantasy,1
+Cyberpunk,Horror,1
+Cyberpunk,Realism,1
+Cyberpunk,Weirdcore,1
+Fantasy,Horror,1
+Fantasy,Realism,1
+Futurism,Horror,1
+Horror,Realism,1
+Realism,Retrofuturism,1
+Realism,Weirdcore,1
+Retrofuturism,Weirdcore,1
+Avant-garde,Horror,1
+Analog Horror,Edwardian,1
+Analog Horror,Surrealism,1
+Futurism,Surrealism,1
+Analog Horror,Motomami,1
+Analog Horror,Glitch Art,1
+Analog Horror,Ethereal,1
+Analog Horror,Weirdcore,1
+Analog Horror,Art Hoe,1
+Analog Horror,Après-ski,1
+Analog Horror,Doomer,1
+Analog Horror,Scene,1
+Analog Horror,Solarpunk,1
+Après-ski,Doomer,1
+Après-ski,Scene,1
+Après-ski,Solarpunk,1
+Doomer,Scene,1
+Doomer,Solarpunk,1
+Analog Horror,Ancient Egypt,1
+Analog Horror,Desert,1
+Analog Horror,Baddie,1
+Brutalism,Mallsoft,1
+Draincore,Dreamcore,1
+Dark Fantasy,Dreamcore,1
+Dark Fantasy,Ethereal,1
+Dreamcore,Motomami,1
+Ethereal,Motomami,1
+Acid Design,Analog Horror,1
+Acid Design,Disco,1
+Acid Design,Halloween,1
+Acid Design,Rave,1
+Analog Horror,Disco,1
+Analog Horror,Halloween,1
+Analog Horror,Rave,1
+Disco,Halloween,1
+Disco,Rave,1
+Halloween,Rave,1
+Cyber Angel,Dreamcore,1
+Desert,Dreamcore,1
+Dreamcore,Horror,1
+Bondage,Dreamcore,1
+Bondage,Fantasy,1
+Bondage,Gothic,1
+Bondage,Medieval,1
+Dreamcore,Medieval,1
+Gothic,Surrealism,1
+Decora,Dreamcore,1
+Dreamcore,Foodie,1
+Cleancore,Fairytale,1
+Cleancore,Weirdcore,1
+Fairytale,Weirdcore,1
+Dark Aero,Fairycore,1
+Dark Aero,Futurism,1
+Dark Aero,Industrial,1
+Dark Aero,Low Poly,1
+Fairycore,Industrial,1
+Fairycore,Low Poly,1
+Futurism,Low Poly,1
+Industrial,Low Poly,1
+Fairytale,Foodie,1
+Decora,Fairytale,1
+Fairytale,Neo-Y2K,1
+City Pop,Fairycore,1
+City Pop,Fairytale,1
+Fairycore,Steampunk,1
+Fairytale,Steampunk,1
+Ethereal,Tropical,1
+Fairycore,Tropical,1
+Dark Fantasy,Emo,1
+Emo,Fairycore,1
+Emo,Fairytale,1
+Emo,Fantasy,1
+Emo,Motomami,1
+Fairycore,Motomami,1
+Fairytale,Motomami,1
+Biopunk,Dreamcore,1
+Fairycore,Net.art,1
+Fairycore,Gen Z Soft Club,1
+Fairycore,Fallen Angel,1
+Art Nouveau,French Girl,1
+Art Nouveau,Surrealism,1
+Fairycore,French Girl,1
+Fairycore,Surrealism,1
+French Girl,Surrealism,1
+Biopunk,Medieval,1
+Biopunk,Weirdcore,1
+Ancient Egypt,Fairycore,1
+Fairycore,Horror,1
+Fairycore,Racing,1
+Ethereal,Sadgirl,1
+Fairycore,Sadgirl,1
+Fantasy,Sadgirl,1
+Fairycore,Halloween,1
+Fairycore,Maximalism,1
+Fantasy,Foodie,1
+Fantasy,Maximalism,1
+Foodie,Halloween,1
+Foodie,Maximalism,1
+Foodie,Medieval,1
+Halloween,Maximalism,1
+Halloween,Medieval,1
+Maximalism,Medieval,1
+Art Nouveau,Country,1
+Art Nouveau,Decora,1
+Art Nouveau,Gothic,1
+Art Nouveau,Victorian,1
+Country,Decora,1
+Country,Gothic,1
+Country,Victorian,1
+Decora,Fantasy,1
+Decora,Victorian,1
+Fairycore,Victorian,1
+Fantasy,Victorian,1
+Gothic,Victorian,1
+Fairycore,Impressionism,1
+Fairycore,Wonderland,1
+Fantasy,Wonderland,1
+Desert,Fairycore,1
+Dreamcore,Scene,1
+Fairycore,Scene,1
+Corporate,Old Money,1
+Corporate,Scene,1
+Old Money,Scene,1
+Country,Flower Power,1
+Country,Futurism,1
+Country,Psychedelia,1
+Country,Solarpunk,1
+Dreamcore,Flower Power,1
+Dreamcore,Futurism,1
+Dreamcore,Psychedelia,1
+Dreamcore,Solarpunk,1
+Ethereal,Flower Power,1
+Ethereal,Futurism,1
+Ethereal,Solarpunk,1
+Fairycore,Flower Power,1
+Fantasy,Flower Power,1
+Fantasy,Psychedelia,1
+Fantasy,Solarpunk,1
+Flower Power,Futurism,1
+Flower Power,Psychedelia,1
+Flower Power,Solarpunk,1
+Futurism,Psychedelia,1
+Psychedelia,Solarpunk,1

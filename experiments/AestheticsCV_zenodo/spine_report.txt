@@ -1,0 +1,18 @@
+==================================================================
+SPINE: cross-source transfer of the affective-mechanism structure
+are.na n=1932  Wikimedia n=681  shared numeric features=29
+==================================================================
+
+[are.na -> Wikimedia]  train n=1932  test n=561  (29 shared features)
+   accuracy=0.381  majority=0.346  null=0.266+/-0.037  p=0.0149  z=3.2
+     recall restorative   =0.33  (n=160)
+     recall hauntological =0.46  (n=123)
+     recall inverted      =0.51  (n=194)
+     recall anemoia       =0.08  (n=84)
+
+[Wikimedia -> are.na]  train n=561  test n=1932  (29 shared features)
+   accuracy=0.315  majority=0.302  null=0.258+/-0.023  p=0.0100  z=2.5
+     recall restorative   =0.40  (n=583)
+     recall hauntological =0.52  (n=551)
+     recall inverted      =0.12  (n=471)
+     recall anemoia       =0.09  (n=327)

@@ -1,0 +1,24 @@
+================================================================
+OASIS generality test (judges: gemini, gpt4o, claude)
+================================================================
+
+[0] PER-MODEL vs human norms (valence Pearson r; negativity bias on 0-1; mean eerie on human-POSITIVE tercile):
+    gemini   n= 874  valence r=0.85  bias=-0.022 [-0.032,-0.012]  eerie|positive=1.29
+    gpt4o    n= 778  valence r=0.84  bias=-0.069 [-0.078,-0.060]  eerie|positive=1.20
+    claude   n= 894  valence r=0.87  bias=-0.008 [-0.019,+0.002]  eerie|positive=1.30
+
+images rated by all judges + with norms: 760
+
+[1] VALIDITY (VLM tracks human norms):
+    valence: Pearson r=0.89  Spearman=0.89
+    arousal: Pearson r=0.70  Spearman=0.69
+
+[2] NEGATIVITY BIAS (VLM minus human, common 0-1 scale; <0 = VLM more negative):
+    valence diff = -0.030  95% CI [-0.038,-0.021]  (VLM MORE NEGATIVE)
+    arousal diff = +0.029  95% CI [+0.016,+0.042]
+
+[3] UNCANNY INFLATION (VLM 'eerie', 1-5, by human-valence tercile):
+    human-NEGATIVE images: mean VLM eerie = 2.54
+    human-NEUTRAL  images: mean VLM eerie = 1.60
+    human-POSITIVE images: mean VLM eerie = 1.25
+    -> eerie>=3 fraction among human-POSITIVE images: 0.02

@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "title": "Internet Aesthetics Stimulus Set and Feature Table (Nostalgia/Uncanny Computational Map)",
+    "upload_type": "dataset",
+    "description": "A license-documented corpus of 681 images spanning internet aesthetics organized by affective operation on the past (restorative, hauntological, anemoia, inverted) plus present-day controls, with a computed 681x37 feature table (three perceptual axes + four phi coordinates), canonical-reference embeddings, the aesthetics catalogue, and full analysis code. Companion to the manuscript 'The Many Pasts of Internet Aesthetics'. All images openly licensed; per-image attribution in CREDITS.md.",
+    "creators": [
+      {
+        "name": "Lin, Yan Jun",
+        "affiliation": "Cornell University"
+      }
+    ],
+    "license": "cc-by-4.0",
+    "keywords": [
+      "internet aesthetics",
+      "nostalgia",
+      "uncanny",
+      "liminal spaces",
+      "vaporwave",
+      "Frutiger Aero",
+      "computational aesthetics",
+      "stimulus set",
+      "computer vision",
+      "affective science"
+    ],
+    "access_right": "open",
+    "notes": "Individual images retain their own CC/public-domain licences; compilation is CC-BY-4.0."
+  }
+}

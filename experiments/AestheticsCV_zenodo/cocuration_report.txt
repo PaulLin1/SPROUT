@@ -1,0 +1,28 @@
+==================================================================
+CO-CURATION REPLICATION (independent are.na user-filing graph)
+==================================================================
+blocks with >=1 recognized aesthetic: 1547
+blocks spanning >=2 aesthetics (edge-bearing): 244
+co-curation graph (edges w>=1): 104 nodes, 354 edges
+co-curation communities: 7  modularity Q=0.371
+
+shared nodes (in both co-curation graph and wiki network): 103
+CROSS-SOURCE community NMI(co-curation, wiki) = 0.213 (perm null 0.170, p=0.0320)
+  -> REPLICATES: structure is not a wiki-editor artifact
+
+top co-curation pairs (most co-filed):
+    21  Fairycore -- Fairytale
+    13  Cassette Futurism -- Futurism
+    13  Fairycore -- Fantasy
+    10  Dreamcore -- Weirdcore
+     8  Fantasy -- Weirdcore
+     8  Ethereal -- Fairycore
+     7  Kidcore -- Maximalism
+     7  Cassette Futurism -- Industrial
+     6  Cassette Futurism -- Fantasy
+     6  Cassette Futurism -- Cyberpunk
+     6  Gothic -- Medieval
+     6  Dreamcore -- Fantasy
+     6  Fairycore -- Gothic
+     5  Cassette Futurism -- Retrofuturism
+     5  Futurism -- Retrofuturism

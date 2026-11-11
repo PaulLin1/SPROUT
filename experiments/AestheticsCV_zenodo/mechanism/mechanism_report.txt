@@ -1,0 +1,58 @@
+================================================================
+M1  MECHANISM (within human restorative/anemoia are.na images)
+    n=862 images; what predicts Gemini 'eerie'?
+================================================================
+
+  Pearson r of each property with VLM eerie (sorted):
+    seg_emptiness_index    r=+0.14   (higher -> more eerie)
+    seg_human_absence      r=+0.09   (higher -> more eerie)
+    resolution             r=+0.06   (higher -> more eerie)
+    col_val_mean           r=-0.06   (higher -> less eerie)
+    col_edge_density       r=-0.06   (higher -> less eerie)
+    col_warm_cool_ratio    r=-0.05   (higher -> less eerie)
+    col_colorfulness       r=-0.05   (higher -> less eerie)
+    blur_lapvar            r=-0.05   (higher -> less eerie)
+    col_sat_mean           r=-0.04   (higher -> less eerie)
+    col_gloss_index        r=+0.03   (higher -> more eerie)
+
+  standardized multiple-regression betas (unique contribution):
+    seg_emptiness_index    beta=+0.22
+    col_val_mean           beta=-0.08
+    seg_human_absence      beta=-0.07
+    col_warm_cool_ratio    beta=-0.05
+    blur_lapvar            beta=-0.05
+    resolution             beta=+0.05
+    col_sat_mean           beta=-0.04
+    col_edge_density       beta=+0.03
+    col_gloss_index        beta=+0.02
+    col_colorfulness       beta=-0.02
+    model R^2 = 0.04
+
+================================================================
+M2  CAUSAL INTERVENTION (image naturalization), paired eerie change vs control
+================================================================
+  [gemini] control mean eerie = 3.17 (n=120)
+      T_quality   delta=+0.08 [-0.03,+0.20] -> n.s. (n=120)
+      T_tone      delta=+0.03 [-0.10,+0.15] -> n.s. (n=120)
+      T_natural   delta=+0.08 [-0.04,+0.21] -> n.s. (n=120)
+  [openai] control mean eerie = 2.61 (n=115)
+      T_quality   delta=+0.06 [-0.03,+0.14] -> n.s. (n=109)
+      T_tone      delta=+0.05 [-0.02,+0.13] -> n.s. (n=111)
+      T_natural   delta=+0.06 [-0.03,+0.15] -> n.s. (n=111)
+  [anthropic] control mean eerie = 2.64 (n=120)
+      T_quality   delta=+0.17 [+0.07,+0.26] -> raises eerie (n=120)
+      T_tone      delta=+0.03 [-0.04,+0.11] -> n.s. (n=120)
+      T_natural   delta=+0.12 [+0.03,+0.22] -> raises eerie (n=120)
+
+================================================================
+M3  PROMPT ABLATION (reframe the question), paired eerie change vs baseline
+================================================================
+  [gemini] baseline mean eerie = 3.33 (n=120)
+      ground      delta=-0.37 [-0.51,-0.23] -> REDUCES eerie (n=120)
+      debias      delta=-0.72 [-0.87,-0.58] -> REDUCES eerie (n=120)
+  [openai] baseline mean eerie = 2.59 (n=108)
+      ground      delta=-0.17 [-0.25,-0.10] -> REDUCES eerie (n=101)
+      debias      delta=-0.24 [-0.33,-0.16] -> REDUCES eerie (n=94)
+  [anthropic] baseline mean eerie = 2.68 (n=120)
+      ground      delta=-0.31 [-0.40,-0.23] -> REDUCES eerie (n=102)
+      debias      delta=-0.37 [-0.46,-0.28] -> REDUCES eerie (n=120)

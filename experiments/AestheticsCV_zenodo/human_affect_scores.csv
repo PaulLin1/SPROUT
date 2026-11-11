@@ -1,0 +1,27 @@
+aesthetic,cluster,has_kv,n_unease,n_nostalgia,n_comfort,n_refinement,p_unease,p_nostalgia,p_comfort,p_refinement
+Frutiger Aero,restorative,False,0,0,0,0,0.0,0.0,0.0,0.0
+Y2K,restorative,False,0,0,0,0,0.0,0.0,0.0,0.0
+Cottagecore,restorative,True,0,1,4,0,0.0,0.2,0.8,0.0
+Kidcore,restorative,True,0,3,3,0,0.0,0.5,0.5,0.0
+Synthwave,restorative,True,0,2,1,0,0.0,0.6666666666666666,0.3333333333333333,0.0
+Googie,restorative,True,0,0,2,0,0.0,0.0,1.0,0.0
+Atompunk,restorative,True,0,0,0,0,0.0,0.0,0.0,0.0
+Raygun Gothic,restorative,True,0,0,0,0,0.0,0.0,0.0,0.0
+Vaporwave,hauntological,True,1,2,0,0,0.3333333333333333,0.6666666666666666,0.0,0.0
+Mallsoft,hauntological,True,1,1,1,0,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.0
+Cassette Futurism,hauntological,False,0,0,0,0,0.0,0.0,0.0,0.0
+Dieselpunk,hauntological,True,0,0,0,0,0.0,0.0,0.0,0.0
+Retrofuturism,hauntological,False,0,0,0,0,0.0,0.0,0.0,0.0
+Faded,hauntological,True,0,1,1,1,0.0,0.3333333333333333,0.3333333333333333,0.3333333333333333
+Liminal Space,inverted,True,3,1,1,0,0.6,0.2,0.2,0.0
+The Backrooms,inverted,True,3,1,1,0,0.6,0.2,0.2,0.0
+Poolcore,inverted,False,0,0,0,0,0.0,0.0,0.0,0.0
+Weirdcore,inverted,True,4,2,1,0,0.5714285714285714,0.2857142857142857,0.14285714285714285,0.0
+Dreamcore,inverted,True,0,2,1,0,0.0,0.6666666666666666,0.3333333333333333,0.0
+Analog Horror,inverted,True,5,0,0,0,1.0,0.0,0.0,0.0
+Dark Academia,anemoia,True,0,0,0,3,0.0,0.0,0.0,1.0
+Light Academia,anemoia,True,0,0,1,4,0.0,0.0,0.2,0.8
+Fairycore,anemoia,True,0,0,4,0,0.0,0.0,1.0,0.0
+Goblincore,anemoia,True,0,0,0,0,0.0,0.0,0.0,0.0
+Royalcore,anemoia,True,0,0,1,3,0.0,0.0,0.25,0.75
+Old Money,anemoia,True,0,0,0,3,0.0,0.0,0.0,1.0

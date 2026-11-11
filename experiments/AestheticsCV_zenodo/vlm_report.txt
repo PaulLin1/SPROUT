@@ -1,0 +1,29 @@
+==================================================================
+VLM AFFECT PANEL  (judges: gemini, gpt4o, claude)
+==================================================================
+  gemini: 1883 rated images
+  gpt4o: 1729 rated images
+  claude: 1125 rated images
+
+[1] INTER-JUDGE reliability (Pearson r per axis):
+    images rated by all judges: 1115
+    eerie       r=0.76
+    nostalgic   r=0.74
+    abandoned   r=0.72
+    dreamlike   r=0.77
+    valence     r=0.72
+    arousal     r=0.70
+    mode agreement gemini vs gpt4o: 0.70
+
+arena images with consensus affect + human label: 1885
+
+[2] PREDICT human cluster from 6 consensus VLM affect axes (channel-grouped 5-fold):
+    accuracy=0.600  majority=0.292  null=0.263+/-0.011  z=30.5
+
+[3/4] VLM forced-choice MODE vs human cluster (consensus majority vote):
+    overall mode-match accuracy = 0.514
+    restorative   : 0.35  (n=537)   confusions-> {'inverted': 168, 'restorative': 189, 'hauntological': 127, 'anemoia': 53}
+    hauntological : 0.50  (n=551)   confusions-> {'hauntological': 275, 'inverted': 172, 'anemoia': 54, 'restorative': 50}
+    inverted      : 0.86  (n=471)   confusions-> {'inverted': 403, 'hauntological': 45, 'restorative': 10, 'anemoia': 13}
+    anemoia       : 0.31  (n=326)   confusions-> {'anemoia': 101, 'hauntological': 34, 'restorative': 76, 'inverted': 115}
+    => 'where it breaks': lowest-accuracy modes are the cultural frontier (uncanny/anemoia)
